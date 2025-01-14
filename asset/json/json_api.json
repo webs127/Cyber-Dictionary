@@ -1,0 +1,1826 @@
+[
+    {
+        "name": "Access Control",
+        "description": "The practice of limiting access to computer systems and data to authorized users, preventing unauthorized entry or disclosure."
+    },
+    {
+        "name": "Access Control List",
+        "description": "A list of rules that specify which users or systems can access certain resources, helping to manage access control and permissions."
+    },
+    {
+        "name": "Access Point",
+        "description": "A device that allows wireless devices to connect to a wired network, providing network access in Wi-Fi environments."
+    },
+    {
+        "name": "Access Token",
+        "description": "A credential used to access resources or services, often in OAuth or API authentication, granting temporary permission."
+    },
+    {
+        "name": "Account Lockout",
+        "description": "A security measure that locks a user out of their account after multiple failed login attempts, preventing unauthorized access."
+    },
+    {
+        "name": "Adaptive Authentication",
+        "description": "Authentication methods that adjust based on the risk profile of a user or transaction, increasing security in response to potential threats."
+    },
+    {
+        "name": "Address Resolution Protocol (ARP)",
+        "description": "A protocol used to map IP addresses to MAC addresses on a local network, facilitating data transmission."
+    },
+    {
+        "name": "Address Space Layout Randomization (ASLR)",
+        "description": "A security technique that randomizes the memory locations of system processes to thwart attacks like buffer overflow exploits."
+    },
+    {
+        "name": "Advanced Persistent Threat",
+        "description": "In an APT attack, a threat actor uses the most sophisticated tactics and technologies to penetrate a high-profile network. APTs aim to stay ‘under the radar’ and explore the network while remaining undetected for weeks, months, and even years. APTs are most often used by nation-state threat actors wishing to cause severe disruption and damage to the economic and political stability of a country. They can be considered the cyber equivalent of espionage ‘sleeper cells’."
+    },
+    {
+        "name": "Advanced Threat Protection",
+        "description": "Advanced Threat Protection (ATP) are security solutions that defend against sophisticated malware or hacking attacks targeting sensitive data. Advanced Threat Protection includes both software and managed security services."
+    },
+    {
+        "name": "Adware",
+        "description": "Adware bombards users with endless ads and pop-up windows and causes a nuisance to the user experience. Adware can also pose a real danger to devices and the unwanted ads can include malware or redirect user searches to malicious websites that collect personal data about users. Adware programs are often built into freeware or shareware programs, where the adware operator collects an indirect fee for using the program. Adware programs usually do not show themselves in the system in any way. Adware programs seldom include a de-installation procedure, and attempts to remove them manually may cause the original carrier program to malfunction."
+    },
+    {
+        "name": "AI Security",
+        "description": "The protection of AI systems from attacks and vulnerabilities that can compromise the integrity of machine learning models and data."
+    },
+    {
+        "name": "Air Gap",
+        "description": "Physically isolating a computer or network from the internet or other unsecured networks to prevent unauthorized access or data transfer."
+    },
+    {
+        "name": "Algorithms",
+        "description": "Mathematical functions used in cryptography and security protocols to ensure data confidentiality and integrity."
+    },
+    {
+        "name": "Analog Hole",
+        "description": "A vulnerability that allows the unauthorized copying of digital content, enabling copyright violations and data theft."
+    },
+    {
+        "name": "Anonymization",
+        "description": "The process of making data anonymous to protect privacy, ensuring that individuals cannot be readily identified from the data."
+    },
+    {
+        "name": "Anomaly-Based Intrusion Detection System (IDS)",
+        "description": "A security system that detects attacks by identifying unusual or abnormal behavior on a network, enhancing security by recognizing threats that signature-based systems may miss."
+    },
+    {
+        "name": "Anti-Botnet",
+        "description": "Anti-Botnet tools automatically generate botnet checks when a user browses a website. If a risk is detected, it sends back a warning message to the device. The most common anti-botnet solution is CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart)."
+    },
+    {
+        "name": "Anti-Malware",
+        "description": "Anti-Malware is a program designed to protect computers and networks against any threats or attacks from viruses such as adware, spyware, and any such other malicious programs."
+    },
+    {
+        "name": "Anti-Phishing",
+        "description": "Anti-Phishing protects users from fraudulent websites, often perfect replicas of legitimate websites, undetectable to the human eye. Protection is enforced by detecting fraudulent emails, and by blocking phishing websites."
+    },
+    {
+        "name": "Anti-Replay Attack",
+        "description": "A security mechanism that prevents attackers from interceptingand reusing data, maintaining data confidentiality and integrity."
+    },
+    {
+        "name": "Anti-Virus",
+        "description": "Anti-Virus solutions integrate the latest generation of virus detection technology to protect users from viruses, spyware, trojans, and worms that can infect equipment through email or internet browsing."
+    },
+    {
+        "name": "Anti-Virus Signature",
+        "description": "Anti-Virus solutions integrate the latest generation of virus detection technology to protect users from viruses, spyware, trojans, and worms that can infect equipment through email or internet browsing."
+    },
+    {
+        "name": "API Gateway",
+        "description": "A server that acts as an API front-end, providing security, load balancing, and other essential functions for API management and protection."
+    },
+    {
+        "name": "API Key",
+        "description": "A unique code used to authenticate and gain access to an API or service ensuring secure communication between applications and resources."
+    },
+    {
+        "name": "API Security",
+        "description": "Protection of Application Programming Interfaces from unauthorized access, misuse, and vulnerabilities that may expose data or functionality."
+    },
+    {
+        "name": "Applet",
+        "description": "A small application or program that runs within a web browser, often used for web-based interactivity."
+    },
+    {
+        "name": "Application Layer",
+        "description": "The top layer of the OSI model, handling communication between applications and responsible for data exchange."
+    },
+    {
+        "name": "Application Firewall",
+        "description": "A security mechanism that filters and monitors incoming and outgoing traffic to protect applications from threats and unauthorized access."
+    },
+    {
+        "name": "Application Layer Firewall",
+        "description": "A firewall that operates at the application layer of the OSI model, monitoring and filtering traffic based on the specific application protocols."
+    },
+    {
+        "name": "Application Security Testing (AST)",
+        "description": "The process of testing applications for vulnerabilities and weaknesses, including static analysis, dynamic analysis, and penetration testing."
+    },
+    {
+        "name": "Application Whitelisting",
+        "description": "Allowing only approved applications to run on a system while blocking all others, enhancing security by restricting unauthorized software."
+    },
+    {
+        "name": "AppSec",
+        "description": "Abbreviation for Application Security, encompassing practices and technologies to secure software applications from vulnerabilities and attacks."
+    },
+    {
+        "name": "Attack Surface",
+        "description": "The potential entry points or vulnerabilities in a system or application that can be exploited by attackers to gain unauthorized access."
+    },
+    {
+        "name": "Attack Surface Analysis",
+        "description": "Identifying patterns or signatures of known malware to detect and remove threats from computer systems, enhancing cybersecurity."
+    },
+    {
+        "name": "Attack Surface Reduction (ASR)",
+        "description": "Techniques and strategies used to minimize the attack surface of a system, reducing the number of potential vulnerabilities and attack vectors."
+    },
+    {
+        "name": "Attack Vector",
+        "description": "An Attack Vector is the collection of all vulnerable points by which an attacker can gain entry into the target system. Attack vectors include vulnerable points in technology as well as human behavior, skillfully exploited by attackers to gain access to networks. The growth of IoT devices and (Work from Home) have greatly increased the attack vector, making networks increasingly difficult to defend."
+    },
+    {
+        "name": "Attribute-Based Access Cotrol (ABAC)",
+        "description": "Access control based on attributes of users, systems, and resources, allowing dynamic and flexible permissions."
+    },
+    {
+        "name": "ARP Spoofing",
+        "description": "A technique where an attacker associates their MAC address with a legitimate IP address in a network, enabling unauthorized access."
+    },
+    {
+        "name": "Asset Inventory",
+        "description": "Maintaining a comprehensive record of all hardware, software, and data assets within an organization to ensure effective security management."
+    },
+    {
+        "name": "Asymmetric Encryption",
+        "description": "A cryptographic method that uses different keys for encryption and decryption, enhancing security by separating keys."
+    },
+    {
+        "name": "Asymmetric Encryption Standard (AES)",
+        "description": "A widely used symmetric encryption algorithm that ensures data confidentiality and integrity through strong encryption."
+    },
+    {
+        "name": "Asymmetric Key Encryption",
+        "description": "a cryptographic method that enhances security by using separate keys for encryption and decryption."
+    },
+    {
+        "name": "Audit Trail",
+        "description": "A chronological record of system and network activities, including user actions, for monitoring, compliance, and forensic analysis."
+    },
+    {
+        "name": "Authentication",
+        "description": "Authentication is the process of verifying the identity of a user or piece of information and the veracity of the information provided. In computing, it is the process of identifying a person or system with a username, password, etc. Authentication helps individuals and systems gain authorization based on their identity and prevent unauthorized access."
+    },
+    {
+        "name": "Authentication Factor",
+        "description": "The method or component used to confirm the identity of a user, such as passwords, biometrics, or security tokens."
+    },
+    {
+        "name": "Authentication Protocol",
+        "description": "A standardized method for verifying the identity of a user or system, such as the use of usernames and passwords."
+    },
+    {
+        "name": "Authentication Token",
+        "description": "A physical or digital device used for two-factor authentication, providing an additional layer of security."
+    },
+    {
+        "name": "Authentication Server",
+        "description": " A server responsible for verifying user credentials during the authentication process."
+    },
+    {
+        "name": "Authorization",
+        "description": "The process of granting or denying access permissions to users or systems, ensuring that only authorized entities have access to specific resources."
+    },
+    {
+        "name": "Avalanche Effect",
+        "description": "A cryptographic concept where a small change in input data produces a significantly different output, enhancing the security of encryption algorithms."
+    },
+    {
+        "name": "Backdoor",
+        "description": "Attackers use a Backdoor to gain access to a computer or a network. A programmer may bypass security steps and gain access to a computer through trapdoor programs, in the event of an attack on the computer system or networks. Attackers may also use such mechanisms to enter computers or networks without proper permission."
+    },
+    {
+        "name": "Backscatter",
+        "description": "Unintentional radiofrequency or electromagnetic radiation reflected back toward its source, often associated with radar or wireless communication."
+    },
+    {
+        "name": "Backup",
+        "description": "Backup is the process of creating duplicate copies of data, files, or entire systems to ensure that if the original data is lost, damaged, or compromised, a copy can be restored. Backups are typically stored on separate media or in a different location to protect against data loss due to hardware failures, data corruption, accidental deletions, or other unexpected events."
+    },
+    {
+        "name": "Backup and Recovery",
+        "description": "Backup and recovery is the process of creating copies of data to ensure its availability in case of data loss or a cyber-incident."
+    },
+    {
+        "name": "Backup Key",
+        "description": "A cryptographic key used for data backup and recovery, ensuring that data can be restored if the primary encryption key is lost or compromised. 101. Business Impact Criticality: The assessment of how critical a particular business process or function is to the overall operations and success of an organization."
+    },
+    {
+        "name": "Bad Data",
+        "description": "Data that is incorrect, corrupted, or unusable due to errors, inconsistencies, or inaccuracies."
+    },
+    {
+        "name": "Banker Trojan",
+        "description": "A Banker Trojan is a malicious computer program that intercepts sensitive personal information and credentials for accessing online bank or payment accounts."
+    },
+    {
+        "name": "Bannner Ad",
+        "description": "An online advertisement typically displayed at the top, bottom, or sides of a web page. It often includes images, text, and links to promote products or services."
+    },
+    {
+        "name": "Bannner Grabbing",
+        "description": "Banner grabbing is the process of collecting information about a target system, such as its operating system or version, by analyzing banners sent by network services."
+    },
+    {
+        "name": "Base64",
+        "description": "A binary-to-text encoding scheme used to represent binary data as ASCII text. It is commonly used in data transmission and storage, including encoding email attachments."
+    },
+    {
+        "name": "Baseline",
+        "description": "A reference point or starting point that serves as a standard for comparison. In various contexts, a baseline can be used to measure progress, changes, or deviations."
+    },
+    {
+        "name": "Bastion Host",
+        "description": "A highly secured and fortified computer or server that is strategically placed on a network to protect it from unauthorized access, often used in firewalls and security setups."
+    },
+    {
+        "name": "Beaconing",
+        "description": "Beaconing is the periodic transmission of data by malware to a command and control server to signal its presence and status. It is a term used in the context of computer networking and wireless communication. It refers to the process where a device, often a wireless access point or networked device, periodically sends out a signal or beacon to announce its presence and provide information to other devices in the vicinity."
+    },
+    {
+        "name": "Behavior Analysis",
+        "description": "Behavior analysis is the study of patterns and activities within a network to detect abnormal or suspicious behavior that may indicate a cyber threat."
+    },
+    {
+        "name": "Behavior-Based Detection",
+        "description": "Behavior-based detection analyzes the behavior of  software or users to identify abnormal or malicious activities"
+    },
+    {
+        "name": "Behavior Profiling",
+        "description": "The process of analyzing and creating a profile of an individual's online or digital behavior, often used in cybersecurity to detect abnormal or malicious activities."
+    },
+    {
+        "name": "Bit Torrent",
+        "description": "BitTorrent is a peer-to-peer file-sharing protocol that is sometimes used to distribute malicious software, making it a concern for cybersecurity."
+    },
+    {
+        "name": "Binary Code",
+        "description": "Binary code is a system of representing data and instructions using a series of 1s and 0s, which is fundamental in computing and cybersecurity."
+    },
+    {
+        "name": "Binary Large Object (BLOB)",
+        "description": "A data type in databases and computer systems used to store binary data, such as images, audio, or video files."
+    },
+    {
+        "name": "Biometric Authentication",
+        "description": "Unique physical or behavioral characteristics of an individual, such as fingerprints, facial recognition, or iris scans, used for identity verification and security purposes."
+    },
+    {
+        "name": "Biometric Data",
+        "description": "Data used as a reference point for biometric authentication, such as a fingerprint template or facial recognition data used to verify an individual's identity."
+    },
+    {
+        "name": "Biometric Reference Data",
+        "description": "Biometric authentication uses unique physical or behavioral traits, such as fingerprints or facial recognition, to verify a user's identity."
+    },
+    {
+        "name": "Bit",
+        "description": "Short for 'binary digit', it is the smallest unit of digital data, representing a 0 or 1 in binary code, used in computing and digital communication."
+    },
+    {
+        "name": "BIOS (Basic Input/Output System)",
+        "description": "A firmware used to initialize and control hardware components in a computer, typically stored in a computer's motherboard. It is responsible for the boot-up process and hardware communication."
+    },
+    {
+        "name": "Black Hat SEO",
+        "description": "Unethical and manipulative techniques used to improve a website's search engine ranking, often violating search engine guidelines and resulting in penalties."
+    },
+    {
+        "name": "Blacklist",
+        "description": "Blacklist, Blocklist, or Denylist is a basic access control mechanism that allows elements such as email addresses, users, passwords, URLs, IP addresses, domain names, file hashes, etc. through the system, except those explicitly mentioned which are denied access."
+    },
+    {
+        "name": "Blacklistable",
+        "description": "The quality of being eligible to be placed on a blacklist due to malicious or undesirable behavior."
+    },
+    {
+        "name": "Blastware",
+        "description": "Malicious software designed to destroy or render data or hardware irrecoverable, typically used in cyberattacks to cause permanent damage."
+    },
+    {
+        "name": "Blind SQL Injection",
+        "description": "A type of SQL injection attack where an attacker sends malicious SQL queries to a web application's database without receiving direct feedback. They 'blindly' infer information from the application's response."
+    },
+    {
+        "name": "Blockchain Security",
+        "description": "Blockchain security focuses on protecting decentralized ledgers from unauthorized access and tampering."
+    },
+    {
+        "name": "Block Cipher",
+        "description": "A method of encrypting data in fixed-size blocks, where the same block of plaintext will always produce the same block of ciphertext. This is commonly used in encryption algorithms."
+    },
+    {
+        "name": "Blue Team",
+        "description": "In the context of cybersecurity, the 'Blue Team' refers to the group within an organization responsible for defending against cyberattacks. They often work in contrast to the 'Red Team', which simulates attackers to test defenses. Blockchain security focuses on protecting decentralized ledgers from unauthorized access and tampering."
+    },
+    {
+        "name": "Bluetooth",
+        "description": "A wireless communication technology standard that allows devices to connect and exchange data over short distances, commonly used for connectingsmartphones, headphones, and other peripherals."
+    },
+    {
+        "name": "Bootable Disk",
+        "description": "A storage medium, such as a CD, DVD, or USB drive, that contains the necessary data and instructions to start a computer and load an operating system."
+    },
+    {
+        "name": "Boot Sector",
+        "description": "The section of a storage device (like a hard drive or USB) that contains the information necessary for the device to boot up and load an operating system."
+    },
+    {
+        "name": "Bot",
+        "description": "A Bot is a program that automates actions on behalf of an agent for some other program or person and is used to carry out routine tasks. Their use for malicious purposes includes spam distribution, credentials harvesting, and the launching of DDoS attacks"
+    },
+    {
+        "name": "Bot Herder",
+        "description": "An individual or entity responsible for creating and controlling a botnet, typically used for malicious purposes, such as launching cyberattacks."
+    },
+    {
+        "name": "Bot Imitation",
+        "description": "The act of creating a bot that mimics human behavior or interaction to avoid detection, often used in social engineering or malicious activities."
+    },
+    {
+        "name": "Botnet",
+        "description": "A Botnet is a collection of compromised computers running malicious programs that are controlled remotely by a C&C (command & control) server operated by a cyber-criminal. Cybercriminals exercise remote control through automated processes (bots) in public IRC channels or websites. (Such websites may either be run directly by the ‘bot herder,’ or they may be legitimate websites that have been subverted for this purpose.)"
+    },
+    {
+        "name": "Botmaster",
+        "description": "A person or entity that controls a network of compromised computers (botnet) and can issue commands to the individual bots for various purposes, including cyberattacks."
+    },
+    {
+        "name": "Breach",
+        "description": "Browser security involves securing web browsers to protect against vulnerabilities, malicious extensions, and browser-based attacks."
+    },
+    {
+        "name": "Browser Security",
+        "description": "Browser security involves securing web browsers to protect against vulnerabilities, malicious extensions, and browser-based attacks."
+    },
+    {
+        "name": "Bricking",
+        "description": "Rendering a device, such as a smartphone or computer, completely inoperable, essentially turning it into a 'brick'. This can happen due to software errors or unauthorized modifications."
+    },
+    {
+        "name": "Brute-Force Attack",
+        "description": "This is a method for guessing a password (or the key used to encrypt a message) that involves systematically trying a high volume of possible combinations of characters until the correct one is found. One way to reduce the susceptibility to a Brute Force Attack is to limit the number of permitted attempts to enter a password – for example, by allowing only three failed attempts and then permitting further attempts only after 15 minutes."
+    },
+    {
+        "name": "Brute-Force Cracking",
+        "description": "A method of attempting to gain access to a system or data by trying all possible combinations of usernames and passwords until the correct one is found, typically used in hacking."
+    },
+    {
+        "name": "Buffer",
+        "description": "A buffer overflow occurs when a program writes more data into a buffer (temporary storage) than it can handle, potentially leading to code execution by an attacker."
+    },
+    {
+        "name": "Buffer Overflow",
+        "description": "A temporary storage area in computer memory used to hold data while it is being transferred from one place to another. Buffers are often used to manage data between different speeds or types of devices."
+    },
+    {
+        "name": "Bug",
+        "description": "A software or hardware flaw or error that can cause unintended behavior, malfunction, or security vulnerabilities in a system."
+    },
+    {
+        "name": "Bug Bounty Program",
+        "description": "A bug bounty program is a reward system where organizations offer incentives to ethical hackers who discover and report security vulnerabilities."
+    },
+    {
+        "name": "Bulk Transport",
+        "description": "The movement of large quantities of goods or data from one location to another, typically used in logistics and data transfer contexts."
+    },
+    {
+        "name": "Business Continuity Plan",
+        "description": "A Business Continuity Plan is an organization’s playbook for how to operate in an emergency situation, like a massive cyberattack. The business continuity plan provides safeguards against a disaster and outlines the strategies and action plan on how to continue business as usual in the event of any large-scale cyber event."
+    },
+    {
+        "name": "Business Disruption",
+        "description": "The term Business Disruption refers to any interruption in the usual way that a system, process, or event works. Cyberattacks cause disruption to business operations and the associated risk of losses to the organization."
+    },
+    {
+        "name": "Business Email Account",
+        "description": "An email account used for business communication, typically associated with a professional domain name and used by employees or representatives of a company."
+    },
+    {
+        "name": "Business Email Address",
+        "description": "The email address associated with a business or organization, typically using the business's domain name, and used for professional communication."
+    },
+    {
+        "name": "Business Email Compromise Plan (BEC)",
+        "description": "A type of cyberattack where an attacker compromises a business email account to impersonate an executive or employee and conduct fraudulent activities, such as wire transfers or sensitive data theft."
+    },
+    {
+        "name": "Business Impact",
+        "description": "The effect or consequence of a specific event or situation on a business, often related to financial, operational, or reputational aspects."
+    },
+    {
+        "name": "Business Impact Ananlysis (BIA)",
+        "description": "The term Business Disruption refers to any interruption in the usual way that a system, process, or event works. Cyberattacks cause disruption to business operations and the associated risk of losses to the organization. An evaluation of the potential consequences of a disruptive event on a business, typically used to assess the impact on operations, revenue, reputation, and other critical factors."
+    },
+    {
+        "name": "Business Process",
+        "description": "A series of interrelated tasks and activities within an organization that work together to achieve a specific business goal or objective."
+    },
+    {
+        "name": "Business Process Compromise",
+        "description": "A security breach in which an attacker infiltrates and manipulates critical business processes, potentially causing financial loss or damage to an organization."
+    },
+    {
+        "name": "Business Process Compromise Threat",
+        "description": "The potential threat to a business process where an attacker infiltrates and manipulates the process for malicious purposes, potentially causing financial or operational damage."
+    },
+    {
+        "name": "Business Process Criticality",
+        "description": "The assessment of how critical a particular business process is to the overall operations and success of an organization."
+    },
+    {
+        "name": "Business Partner",
+        "description": "Another organization or entity with which a company collaborates or has a business relationship to achieve common goals, such as suppliers, customers, or strategic allies."
+    },
+    {
+        "name": "Business Risk",
+        "description": "The potential for adverse events or circumstances that may affect an organization's ability to achieve its objectives, including financial, operational, and reputational risks."
+    },
+    {
+        "name": "BYOC",
+        "description": "Bring Your Own Computer (BYOC) is a fairly recent enterprise computing trend by which employees are encouraged or allowed to bring and use their own personal computing devices to perform some or part of their job roles, specifically personal laptop computers."
+    },
+    {
+        "name": "BYOD",
+        "description": "Bring Your Own Device (BYOD) is a policy of the organization allowing, encouraging or requiring its employees to use their personal devices such as smartphones, Tablet PCs, and laptops for official business purposes and accessing enterprise systems and data."
+    },
+    {
+        "name": "BYOL",
+        "description": "Bring Your Own Laptop (BYOL) is a specific type of BYOC by which employees are encouraged or allowed to bring and use their own laptops to perform some or part of their job roles, including possible access to enterprise systems and data."
+    },
+    {
+        "name": "Byte",
+        "description": "A unit of digital information that consists of 8 bits, often used to represent a single character or a small amount of data in computing."
+    },
+    {
+        "name": "CAPTCHA",
+        "description": "A CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart) is a challenge-response test commonly used by websites to verify the user is a real human and not a bot. They can include simple arithmetic and questions about images, that bots have difficulty answering."
+    },
+    {
+        "name": "Certificate",
+        "description": "In the context of cybersecurity, a certificate is a digital document that verifies the identity of an entity, such as a website or user, and encrypts data transmissions to ensure secure communication."
+    },
+    {
+        "name": "Clickjacking",
+        "description": "Clickjacking involves tricking someone into clicking on one object on a web page while they think they are clicking on another. The attacker loads a transparent page over the legitimate content on the web page so that the victim thinks they are clicking on a legitimate item when they are really clicking on something on the attacker’s invisible page. This way, the attacker can hijack the victim’s click for their own purposes. Clickjacking could be used to install malware, gain access to one of the victim’s online accounts, or enable the victim’s webcam."
+    },
+    {
+        "name": "Clientless",
+        "description": "Clientless refers to a program that is run entirely from the network, without requiring any installation of software on the endpoint device running the program. Code Injection is commonly used by malware to evade detection by antivirus and anti-malware programs by injecting malicious code into a legitimate process. This way the legitimate process serves as camouflage so all anti-malware tools can see running is the legitimate process and thus obfuscates the malicious code execution."
+    },
+    {
+        "name": "Cloud",
+        "description": "You already utilize cloud computing if you use Gmail for email, Google Drive for document storage, or Netflix to stream your favorite movies. These services are all built on the cloud. cloud computing is providing on-demand services over the internet.If you want to run a business and you need to keep user data and you decide to do it on a hard drive, you will need a lot of storage space and a tech staff for it.Cloud service providers like Microsoft Azure, AWS, and Google Cloud, which offer on-demand services and are both cost-effective and low-risk in terms of security, make this procedure simple."
+    },
+    {
+        "name": "Cloud Security",
+        "description": "Cloud security focuses on protecting data and resources stored in cloud computing environments. It includes measures to ensure the confidentiality, integrity, and availability of data in cloud services."
+    },
+    {
+        "name": "Compliance",
+        "description": "Compliance in cybersecurity refers to adhering to legal, regulatory, and industry-specific standards and requirements to ensure the security and privacy of data. Organizations must follow compliance guidelines to avoid legal issues and data breaches. "
+    },
+    {
+        "name": "COTS",
+        "description": "Commercial off-the Shelf or Commercially Available off the Shelf (COTS) products are packaged solutions that are then adapted to satisfy the needs of the purchasing organization, rather than the commissioning of custom-made, or bespoke, solutions."
+    },
+    {
+        "name": "Credential",
+        "description": "Credentials are pieces of information, such as usernames and passwords, that are used to authenticate and verify the identity of users accessing computer systems, websites, or applications."
+    },
+    {
+        "name": "Critical Infrastructure",
+        "description": "Critical Infrastructure represents the fundamental systems of an organization that is important for its survival and where any threat to such basic systems would endanger the entire organization."
+    },
+    {
+        "name": "Cross-Site Scripting",
+        "description": "Cross-Site Scripting is a type of security vulnerability that occurs when malicious code is injected into a web application, which is then executed by unsuspecting users in their web browsers. It can lead to data theft and other attacks."
+    },
+    {
+        "name": "Cryptanalysis",
+        "description": "Cryptanalysis is the study of analyzing and breaking cryptographic systems or codes to uncover their content without the knowledge of the key. It is often used to test the security of encryption methods."
+    },
+    {
+        "name": "Cryptography",
+        "description": "Cryptography is the science and practice of secure communication techniques that hide information from unauthorized access. It involves encryption and decryption methods to protect data from eavesdropping or tampering."
+    },
+    {
+        "name": "Cryptojacking",
+        "description": "Cryptojacking consists of hackers using the computing power of a compromised device to generate or “mine” cryptocurrency without the owner’s knowledge. Mining can be performed either by installing a malicious program on the target computer or through various kinds of fileless malware. Sometimes attackers take over part of the computer’s processing power when a page containing a special mining script is opened. Cryptojacking has been known to occur when viewing online ads or solving a CAPTCHA."
+    },
+    {
+        "name": "Cyber Attack",
+        "description": "A cyberattack is a malicious attempt to breach a computer system, network, or device to gain unauthorized access, steal data, disrupt operations, or cause harm. Cyberattacks come in various forms, such as malware, phishing, and DDoS attacks."
+    },
+    {
+        "name": "Cyber Audit",
+        "description": "A cybersecurity audit is a systematic examination of an organization's cybersecurity policies, procedures, and controls to assess their effectiveness and compliance with relevant standards and regulations."
+    },
+    {
+        "name": "Cyber Bullying",
+        "description": "Cyberbullying is the use of electronic means, primarily messaging and social media platforms, to bully and harass a victim. Cyberbullying has become a major problem, especially affecting young people, as it allows bullies to magnify their aggressive behavior, publicly ridicule victims on a large scale, and carry out damaging activities in a way that is difficult for parents and teachers to detect."
+    },
+    {
+        "name": "Cyber Crime",
+        "description": "Cybercrime involves illegal activities committed using computers or digital technology. These crimes include hacking, identity theft, online fraud, and other malicious actions conducted in cyberspace."
+    },
+    {
+        "name": "Cyber Defense",
+        "description": "Cyber defense refers to the strategies and technologies employed to protect computer systems and networks from cyberattacks and security breaches. It includes measures such as firewalls, intrusion detection systems, and incident response protocols."
+    },
+    {
+        "name": "Cyber Espoinage",
+        "description": "Cyber espionage involves the unauthorized gathering of sensitive information or intellectual property by individuals, organizations, or nation-states for strategic or economic purposes."
+    },
+    {
+        "name": "Cyber Forensis",
+        "description": "Cyber forensics, also known as digital forensics, is the process of collecting, analyzing, and preserving digital evidence to investigate cybercrimes or security incidents"
+    },
+    {
+        "name": "Cyber Incident Response ",
+        "description": "Cyber incident response is the process of reacting to and managing a cybersecurity incident or breach. It involves containing the incident, analyzing the impact, and taking steps to recover and prevent future occurrences."
+    },
+    {
+        "name": "Cyber Insurance",
+        "description": "Cyber insurance is a type of insurance that helps organizations mitigate the financial impact of cyber incidents. It can cover costs associated with data breaches, legal liabilities, and recovery efforts."
+    },
+    {
+        "name": "Cyber Kill Chain",
+        "description": "The cyber kill chain is a concept used in cybersecurity to describe the stages a cyberattack goes through, from reconnaissance to data exfiltration. Understanding these stages helps in preventing and detecting attacks."
+    },
+    {
+        "name": "Cyber Threat",
+        "description": "A cyber threat is a potential danger or risk to computer systems, networks, or data. It can be a specific vulnerability or an active attack by threat actors."
+    },
+    {
+        "name": "Cyber Threat Hunting",
+        "description": "Cyber threat hunting is a proactive approach to cybersecurity where experts actively search for signs of potential threats or intrusions within an organization's network, often before those threats are identified by automated security tools."
+    },
+    {
+        "name": "Cyber Threat Intelligence",
+        "description": "Cyber threat intelligence is information and analysis about potential cybersecurity threats, including the tactics, techniques, and procedures used by threat actors. It helps organizations prepare for and respond to cyber threats effectively."
+    },
+    {
+        "name": "Cyber Training",
+        "description": "Cybersecurity training provides individuals and employees with knowledge and skills to protect against cyber threats. It covers topics like secure browsing, safe email practices, and password management."
+    },
+    {
+        "name": "Cyber Vulnerability",
+        "description": "A cyber vulnerability is a weakness or flaw in a computer system, software, or network that could be exploited by cybercriminals or threat actors to gain unauthorized access or cause harm."
+    },
+    {
+        "name": "Cybersecurity",
+        "description": "Cybersecurity relates to processes employed to safeguard and secure assets used to carry information of an organization from being stolen or attacked. It requires extensive knowledge of possible threats such as viruses or other malicious objects. Identity management, risk management, and incident management form the crux of the cybersecurity strategies of an organization."
+    },
+    {
+        "name": "Cybersecurity Architecture",
+        "description": "refers to the design and structure of an organization's security measures and strategies to protect its digital assets and data from various threats and vulnerabilities. It typically includes elements like firewalls, intrusion detection systems, encryption, access controls, and incident response plans. A well-designed cybersecurity architecture is crucial for safeguarding against cyberattacks and ensuring the confidentiality, integrity, and availability of sensitive information. It's a complex and evolving field, with a focus on proactive defense and risk management."
+    },
+    {
+        "name": "Cybersecurity Assessment",
+        "description": "A cybersecurity assessment is an evaluation of an organization's security posture, including vulnerabilities, threats, and protective measures. It helps identify areas of improvement in cybersecurity."
+    },
+    {
+        "name": "Cybersecurity Awareness",
+        "description": "Cybersecurity awareness involves educating individuals within an organization about the importance of cybersecurity and how to recognize and respond to potential threats. It aims to create a security-conscious culture."
+    },
+    {
+        "name": "Cybersecurity Awareness Campaign",
+        "description": "A cybersecurity awareness campaign is a strategic effort to promote awareness and understanding of cybersecurity issues among a specific audience, such as employees or the general public. It often includes communication, training, and engagement activities to improve cybersecurity awareness and behavior."
+    },
+    {
+        "name": "Cybersecurity Awareness Month",
+        "description": "Cybersecurity Awareness Month is an annual campaign held in October to raise awareness about the importance of cybersecurity. It aims to educate individuals and organizations about online threats, best practices for staying safe online, and the role of cybersecurity in our increasingly digital world."
+    },
+    {
+        "name": "Cybersecurity Awareness Program",
+        "description": "A cybersecurity awareness program is a structured initiative within an organization to educate its employees and stakeholders about cybersecurity best practices. It helps in creating a security-conscious culture and reduces the likelihood of security incidents caused by human error."
+    },
+    {
+        "name": "Cybersecurity Awareness Training",
+        "description": "Cybersecurity awareness training involves educating individuals, often employees, about cybersecurity risks and best practices. It helps them recognize threats and take appropriate security measures."
+    },
+    {
+        "name": "Cybersecurity Best Practices",
+        "description": "Cybersecurity best practices refer to recommended guidelines and methods for securing computer systems and data. These practices are based on industry standards and expertise and help reduce the risk of cyber threats."
+    },
+    {
+        "name": "Cybersecurity Certification",
+        "description": "A cybersecurity certification is a formal recognition of an individual's knowledge and skills in the field. Certifications like CISSP, CISM, and CompTIA Security+ are widely recognized and demonstrate competence in various aspects of cybersecurity."
+    },
+    {
+        "name": "Cybersecurity Consultant",
+        "description": "A cybersecurity consultant is an expert who provides advice, assessments, and guidance to organizations on how to improve their cybersecurity practices. They often assist in identifying vulnerabilities and suggesting security solutions."
+    },
+    {
+        "name": "Cybersecurity Control",
+        "description": "Cybersecurity controls are measures and safeguards put in place to protect an organization's information systems and data. These controls can include technologies, policies, procedures, and practices designed to mitigate cybersecurity risks."
+    },
+    {
+        "name": "Cybersecurity Engineer",
+        "description": "A cybersecurity engineer is a professional responsible for designing, implementing, and maintaining an organization's security infrastructure. They work on creating and managing systems and tools to protect against cyber threats."
+    },
+    {
+        "name": "Cybersecurity Expert",
+        "description": "A cybersecurity expert is an individual with in-depth knowledge and expertise in the field of cybersecurity. They are well-versed in various security technologies, threats, and best practices, and often play a critical role in protecting systems and data."
+    },
+    {
+        "name": "Cybersecurity Governance",
+        "description": "Cybersecurity governance is the framework and structure that guides an organization's cybersecurity efforts. It includes defining roles, responsibilities, policies, and decision-making processes related to security."
+    },
+    {
+        "name": "Cybersecurity Hygiene",
+        "description": "Cyber hygiene refers to the practices and habits individuals and organizations adopt to maintain a clean and secure digital environment. It involves actions like keeping software up to date, using strong passwords, and being cautious online to prevent cyber threats."
+    },
+    {
+        "name": "Cybersecurity Incident",
+        "description": "A cybersecurity incident is any event or occurrence that compromises the confidentiality, integrity, or availability of data or computer systems. It may involve breaches, data theft, or other security breaches."
+    },
+    {
+        "name": "Cybersecurity Framework",
+        "description": "A cybersecurity framework is a structured set of guidelines and best practices for managing and improving an organization's cybersecurity program. Frameworks help organizations assess and enhance their security posture."
+    },
+    {
+        "name": "Cybersecurity Operations",
+        "description": "Cybersecurity operations refer to the day-to-day activities and tasks that maintain the security of an organization's systems and data. It includes monitoring, incident response, and ongoing security management."
+    },
+    {
+        "name": "Cybersecurity Policy",
+        "description": "A cybersecurity policy is a set of rules and guidelines that outline an organization's approach to cybersecurity. It defines how data and systems should be protected, and it often includes incident response procedures."
+    },
+    {
+        "name": "Cybersecurity Resilience",
+        "description": "Cyber resilience is the ability of an organization to withstand and recover from cyberattacks or security incidents. It involves measures to minimize the impact of threats and maintain operations."
+    },
+    {
+        "name": "Cybersecurity Risk Assessment",
+        "description": "A cybersecurity risk assessment is the process of identifying, evaluating, and prioritizing potential cybersecurity risks within an organization. It helps in making informed decisions about risk mitigation."
+    },
+    {
+        "name": "Cybersecurity Risk Management",
+        "description": "Cybersecurity risk management involves identifying, assessing, and prioritizing potential threats and vulnerabilities to an organization's digital assets. It aims to minimize these risks through proactive strategies and controls."
+    },
+    {
+        "name": "Cybersecurity Strategy",
+        "description": "A cybersecurity strategy is a comprehensive plan that outlines an organization's long-term approach to managing and mitigating cybersecurity risks. It typically includes goals, objectives, and a roadmap for improving security."
+    },
+    {
+        "name": "Cybersecurity Threat Assessment",
+        "description": "A cybersecurity threat assessment involves identifying and evaluating potential threats to an organization's IT infrastructure and data. This assessment helps organizations understand their vulnerabilities and take proactive steps to mitigate risks."
+    },
+    {
+        "name": "Dark Data",
+        "description": "Dark data refers to unstructured, unused, or underutilized data that organizations generate but do not leverage for decision-making or analysis. Managing and analyzing dark data can reveal valuable insights and improve data utilization."
+    },
+    {
+        "name": "Dark Fiber",
+        "description": "Dark fiber refers to unused or unlit optical fiber cables within a network infrastructure. These unused fibers can be 'lit' or activated when additional network capacity is needed, making it a cost-effective way to expand network capabilities."
+    },
+    {
+        "name": "Darknet",
+        "description": "The darknet, in the context of cybersecurity, is a private network built on top of the internet and often accessed using specialized software like Tor. It provides anonymity and privacy and is used for various purposes, including legitimate privacy protection and illegal activities."
+    },
+    {
+        "name": "Dark Web",
+        "description": "Dark Web is encrypted parts of the internet that are not indexed by search engines, most notoriously used by all types of criminals including; pedophiles, illicit human and contraband traffickers, and cyber criminals, to communicate and share information without being detected or identified by law enforcement. Malware of all types can be purchased on the dark web. A subset of the deep web, which can be accessed by anyone with the correct URL, dark web pages need special software (ex. Tor) with the correct decryption key and access rights and knowledge to find content. Users of the dark web remain almost completely anonymous due to its P2P network connections which makes network activity very difficult to trace."
+    },
+    {
+        "name": "Database Encryption",
+        "description": "Database encryption is the process of applying encryption to the data stored within a database. It ensures that sensitive information is protected from unauthorized access by converting it into an unreadable format, which can only be decrypted with the appropriate key."
+    },
+    {
+        "name": "Database Security",
+        "description": "Database security involves measures and practices designed to protect the confidentiality, integrity, and availability of data stored in databases. This includes access controls, encryption, and auditing to prevent unauthorized access and data breaches."
+    },
+    {
+        "name": "Data Breach",
+        "description": "A Data Breach is the event of a hacker successfully exploits a network or device vulnerability and gains access to its files and data or is an incident in which unauthorized individuals gain access to sensitive, confidential, or protected information, such as personal data or company secrets. This breach may result in data theft, exposure, or compromise."
+    },
+    {
+        "name": "Data Classification",
+        "description": "Data classification is the process of categorizing data based on its sensitivity, value, and importance. It helps organizations manage and protect data effectively by applying appropriate security measures to different types of data."
+    },
+    {
+        "name": "Data Custodian",
+        "description": "A data custodian is an individual or entity responsible for safeguarding and managing data on behalf of its owner or stakeholders. They ensure that data is stored, processed, and protected according to established policies and security standards."
+    },
+    {
+        "name": "Data Encryption",
+        "description": "Data encryption is the process of converting data into a secure, unreadable format to protect it from unauthorized access. Encrypted data can only be decrypted with the appropriate decryption key, ensuring data confidentiality and security."
+    },
+    {
+        "name": "Data-at-rest Encryption",
+        "description": "Data-at-rest encryption is a security measure that protects data stored on physical or digital storage media, such as hard drives, databases, or cloud storage, by encrypting it. This ensures that even if the storage medium is stolen or compromised, the data remains secure."
+    },
+    {
+        "name": "Data Exfiltration",
+        "description": "Data exfiltration is the unauthorized transfer or theft of data from a computer or network to an external location. It is often associated with cyberattacks or insider threats where sensitive data is taken outside the organization."
+    },
+    {
+        "name": "Data Integrity",
+        "description": "Data Integrity is a broad term that refers to the maintenance and assurance of data quality. This includes the accuracy and consistency of data over its entire lifecycle. Data Integrity is an important part of the design, implementation, and use of any data system that stores, processes, or retrieves information. The term is broad in scope and may have widely different meanings depending on the specific context"
+    },
+    {
+        "name": "Data Leakage",
+        "description": "Data leakage, also known as data leakage or data loss, occurs when sensitive or confidential data is unintentionally or maliciously disclosed to unauthorized individuals or systems. This can happen through various means, including data breaches or accidental exposure."
+    },
+    {
+        "name": "Data Loss Provention",
+        "description": "Data Loss Prevention (DLP) is an umbrella term for a collection of security tools, processes, and procedures that aim to prevent sensitive data from falling into unauthorized or malicious hands. DLP aims at preventing such occurrences through various techniques such as strict access controls on resources, blocking or monitoring email attachments, preventing network file exchange to external systems, blocking cut-and-paste, disabling the use of social networks and encrypting stored data."
+    },
+    {
+        "name": "Data Masking",
+        "description": "Data masking is a data security technique that involves replacing sensitive or confidential information in a dataset with fictional or pseudonymous data while maintaining the dataset's structure and functionality. It is used to protect sensitive data during non-production use, such as development or testing."
+    },
+    {
+        "name": "Data Retention",
+        "description": "Data retention is a data management policy that defines how long data should be stored or archived. It considers legal and business requirements and helps organizations determine the appropriate timeframe for keeping data before deletion or archiving."
+    },
+    {
+        "name": "Data Residency",
+        "description": "Data residency refers to the physical or geographical location where data is stored and processed. Compliance regulations and legal requirements often dictate data residency, especially in the context of cross-border data storage and privacy laws."
+    },
+    {
+        "name": "Data Sanitization",
+        "description": "Data sanitization is the process of securely and irreversibly removing data from storage devices, making it impossible to recover. This is crucial when disposing of or reusing storage media to prevent data breaches."
+    },
+    {
+        "name": "Data Shredding",
+        "description": "Data shredding, or secure data destruction, is the process of permanently and securely erasing data from storage devices, making it unrecoverable. It typically involves overwriting data multiple times to ensure complete removal."
+    },
+    {
+        "name": "Data Spillage",
+        "description": "Data spillage refers to the unintentional exposure or leakage of sensitive or confidential information. It can occur due to human error, misconfigured systems, or inadequate security measures, potentially leading to data breaches."
+    },
+    {
+        "name": "Data Theft",
+        "description": "Data Theft is the deliberate theft of sensitive data by nefarious actors."
+    },
+    {
+        "name": "Data Wiping",
+        "description": "Data wiping, also known as data erasure, is the process of securely and permanently removing data from a storage device, such as a hard drive or mobile device. It involves overwriting the data to prevent any future recovery, ensuring data privacy and security."
+    },
+    {
+        "name": "DDoS",
+        "description": "A Denial of Service (DoS) or Distributed Denial of Service (DDoS) attack is when one or more compromised systems launch a flooding attack on a remote target(s), in an attempt to overload network resources and disrupt service. Some DDoS attacks have caused prolonged, complete service shutdowns of major online operators."
+    },
+    {
+        "name": "Decentralized Identity",
+        "description": "Decentralized identity is a concept that allows individuals to control and manage their digital identities without relying on a central authority. It provides a more secure and privacy-focused way for users to interact online while maintaining control over their personal data."
+    },
+    {
+        "name": "Deception Technology",
+        "description": "Deception technology is a cybersecurity approach that involves setting up traps, decoys, and false information within a network to detect and mislead potential attackers. It helps organizations identify and respond to threats more effectively."
+    },
+    {
+        "name": "Decryption",
+        "description": "Decryption is the process of converting encrypted data back into its original, readable format using a decryption key. It is the opposite of encryption, which transforms data into an unreadable form for security."
+    },
+    {
+        "name": "Decoy Network",
+        "description": "A decoy network is a security strategy where a network is deliberately set up with false information, systems, or vulnerabilities to divert and mislead potential attackers. It is used to detect and deceive malicious actors."
+    },
+    {
+        "name": "DeepFake",
+        "description": "A piece of audio or video that has been altered and changed to make it seem authentic or credible. The most perilous aspect of the prevalence of deepfakes is that they can easily convince individuals into believing a particular tale or idea, which may lead to user behavior that has a greater impact on society at large, such as in the political or financial spheres."
+    },
+    {
+        "name": "Default Password",
+        "description": "A default password is a pre-configured, often generic password that is set by manufacturers or service providers for various devices and applications. These passwords are intended to be changed by users to enhance security. Failing to change default passwords can leave systems vulnerable to unauthorized access."
+    },
+    {
+        "name": "Defense In Depth",
+        "description": "Defense in depth is a cybersecurity strategy that involves implementing multiple layers of security measures to protect an organization's IT systems. This approach aims to mitigate risks by ensuring that even if one layer is breached, other layers remain intact to safeguard the system."
+    },
+    {
+        "name": "Denial of Service",
+        "description": "A Denial of Service (DoS) attack is a cyberattack in which the attacker floods a network, system, or website with traffic or requests, causing it to become overwhelmed and unavailable to legitimate users."
+    },
+    {
+        "name": "Detection and Response",
+        "description": "Network Detection and Response is a security solution category used by organizations to detect malicious network activity, perform a forensic investigation to determine the root cause, and then respond and mitigate the threat."
+    },
+    {
+        "name": "Dictionary Attack",
+        "description": "A dictionary attack is a type of password-cracking method in which an attacker uses a list of common words, phrases, or combinations as potential passwords to gain unauthorized access to a system or account."
+    },
+    {
+        "name": "Diffie-Hellman Key Exchange",
+        "description": "The Diffie-Hellman Key Exchange is a cryptographic protocol used to secure communication over an insecure channel. It allows two parties to establish a shared secret key without exchanging the key directly, providing confidentiality and security."
+    },
+    {
+        "name": "Digital Certificate Authority",
+        "description": "A Digital Certificate Authority is a trusted entity that issues digital certificates to verify the authenticity and identity of individuals, organizations, or devices in digital communication. CAs play a crucial role in ensuring secure and encrypted online transactions. Digital identity refers to the online representation of an individual, organization, or device. It includes information and attributes used for authentication, authorization, and validation in digital transactions and interactions."
+    },
+    {
+        "name": "Digital Identity",
+        "description": "Digital identity refers to the online representation of an individual, organization, or device. It includes information and attributes used for authentication, authorization, and validation in digital transactions and interactions."
+    },
+    {
+        "name": "Digital Forensics",
+        "description": "Digital Forensics is the process of procuring, analyzing, and interpreting electronic data for the purpose of presenting it as legal evidence in a court of law."
+    },
+    {
+        "name": "Digital Rights Management (DRM)",
+        "description": "DRM is a set of technologies and methods used to protect and manage the copyright and intellectual property rights of digital content, such as music, videos, and ebooks. DRM controls access, copying, and distribution of digital content to prevent unauthorized use.        "
+    },
+    {
+        "name": "Digital Signature",
+        "description": "A digital signature is a cryptographic technique used to verify the authenticity and integrity of a digital document or message. It provides a means to confirm that the content has not been tampered with and that it was created by the claimed sender."
+    },
+    {
+        "name": "Digital Transformation",
+        "description": "Digital Transformation is the process of using digital technologies to create or modify business processes and customer experiences to keep up-to-date with current business and market requirements."
+    },
+    {
+        "name": "Digital Wallet",
+        "description": "A digital wallet is a software application or service that allows users to store, manage, and make digital payments or transactions securely. It can hold payment card information, digital currencies, loyalty cards, and more."
+    },
+    {
+        "name": "Directory Transversal",
+        "description": "Directory traversal, also known as path traversal or dot-dot-slash attack, is a type of security vulnerability that occurs when an attacker can access files and directories outside the intended directory structure. It can lead to unauthorized access to sensitive data or system files."
+    },
+    {
+        "name": "Disaster Recovery",
+        "description": "Disaster recovery is a comprehensive strategy and set of procedures for restoring IT systems, data, and business operations after a catastrophic event, such as a natural disaster, cyberattack, or hardware failure. It ensures business continuity and data resilience."
+    },
+    {
+        "name": "Distributed Ledger Technology (DLT)",
+        "description": "Distributed Ledger Technology is a decentralized system for recording and verifying transactions across multiple nodes or participants. It is best known for its application in cryptocurrencies like blockchain, but it has a wide range of uses, including supply chain management and voting systems."
+    },
+    {
+        "name": "Domain",
+        "description": "A series of computers and associated peripherals (routers, printers, scanners), that are all connected as one entity."
+    },
+    {
+        "name": "Domain Hijacking",
+        "description": "Domain hijacking occurs when an attacker gains control of a domain name without the owner's consent. This can lead to unauthorized access to websites, email services, or other online assets associated with the hijacked domain."
+    },
+    {
+        "name": "Domain Name Systems (DNS)",
+        "description": "The Domain Name System is a decentralized hierarchical naming system used to translate human-readable domain names (like www.example.com) into IP addresses that computers use to identify each other on the internet. DNS is essential for internet navigation."
+    },
+    {
+        "name": "Domain Name Systems (DNS) Exfiltration",
+        "description": "Domain Name System (DNS) Exfiltration is a lower-level attack on DNS servers to gain unauthorized access. Such attacks are difficult to detect and can lead to loss of data."
+    },
+    {
+        "name": "Drive-By Download Attack",
+        "description": "Drive-by Downloads or attacks are a common method of spreading malware. Cybercriminals look for insecure websites and plant a malicious script into HTTP or PHP code on one of the pages. This script may install malware directly onto the computer of someone who visits the site, or it may take the form of an IFRAME that re-directs the victim to a site controlled by the cybercriminals. Such attacks are called ‘drive-by downloads’ because they require no action on the part of the victim — beyond simply visiting the compromised website: they have infected automatically (and silently) if their computer is vulnerable in some way (e.g., if they have failed to apply a security update to one of their applications)."
+    },
+    {
+        "name": "DMZ (Demilitarized Zone)",
+        "description": "A DMZ is a network segment that sits between an organization's internal network and the external, untrusted network (typically the internet). It is used to provide an additional layer of security and house services that need public access while isolating them from the internal network."
+    },
+    {
+        "name": "DNS Security",
+        "description": "DNS security encompasses technologies and practices aimed at protecting the Domain Name System (DNS) from threats, including DNS spoofing and cache poisoning, to ensure the integrity of domain name resolution."
+    },
+    {
+        "name": "Dumpster Diving",
+        "description": "Dumpster diving is a physical method of gathering sensitive information or discarded materials by searching through trash or dumpsters. Attackers may engage in dumpster diving to find documents or data that can be exploited for malicious purposes."
+    },
+    {
+        "name": "Dwell Time",
+        "description": "Dwell time is the duration between when a cybersecurity threat enters a network and when it is detected and mitigated. A shorter dwell time indicates a more effective security response, while longer dwell times can lead to more extensive damage from cyberattacks."
+    },
+    {
+        "name": "Dynamic Host Configuration Protocol (DHCP)",
+        "description": "DHCP is a network protocol that automates the assignment of IP addresses and other network configuration settings to devices on a network. It simplifies the process of connecting devices to anetwork by dynamically allocating IP addresses."
+    },
+    {
+        "name": "Eavesdropping",
+        "description": "Eavesdropping is the unauthorized interception of electronic communications, such as phone calls or network traffic, with the intent to monitor or obtain information without the knowledge or consent of the parties involved."
+    },
+    {
+        "name": "Egress Filtering",
+        "description": "Egress filtering is a network security measure that controls the flow of data leaving a network or system. It is used to monitor and restrict outbound network traffic to prevent data leakage and unauthorized communication."
+    },
+    {
+        "name": "Egress Point",
+        "description": "An egress point is a network location or device through which data exits a network and enters another network or the internet. Egress points are important for monitoring and controlling the flow of data leaving a network to ensure security and compliance with policies. They play a crucial role in data protection, traffic filtering, and threat detection."
+    },
+    {
+        "name": "Egress Traffic",
+        "description": "Egress traffic refers to the data leaving a network or system and traveling to external destinations, such as other networks or the internet. Monitoring and controlling egress traffic is important for security and compliance."
+    },
+    {
+        "name": "Email Phishing",
+        "description": "Email phishing is a type of cyberattack that involves sending deceptive or fraudulent emails to individuals or organizations, typically with the aim of tricking recipients into revealing sensitive information, such as login credentials, financial details, or personal data. These emails often appear to be from legitimate sources, but they are designed to deceive and exploit the recipient's trust."
+    },
+    {
+        "name": "Email Security Gateway",
+        "description": "An email security gateway is a network device or service that filters and secures email traffic. It protects against various email-based threats, such as spam, phishing, malware, and other malicious content. It acts as a barrier between the organization's email infrastructure and external email sources."
+    },
+    {
+        "name": "Email Security Policy",
+        "description": "An email security policy is a set of guidelines and rules that an organization implements to protect its email communication. It outlines best practices for email usage, including rules for encryption, authentication, spam filtering, and acceptable use, to maintain the security and integrity of email communications."
+    },
+    {
+        "name": "Email Spoofing",
+        "description": "Email spoofing is a technique in which an attacker manipulates the sender's email address to make it appear as if the email is coming from a different source. This is often used in phishing attacks to deceive recipients."
+    },
+    {
+        "name": "Embedded System Security",
+        "description": "Embedded system security is a branch of cybersecurity that focuses on protecting computing systems integrated into various devices and equipment, including IoT (Internet of Things) devices, medical devices, industrial machinery, and automotive systems. These embedded systems often have resource limitations but are vulnerable to security threats. Ensuring their security involves implementing measures to safeguard data, control access, and protect against vulnerabilities unique to embedded systems."
+    },
+    {
+        "name": "End-to-End Encryption",
+        "description": "End-to-end encryption (E2E) is a method of secure communication that ensures data is encrypted on the sender's side and can only be decrypted by the intended recipient. It prevents intermediaries, including service providers, from accessing the data in transit."
+    },
+    {
+        "name": "Encrypted Communication",
+        "description": "Encrypted communication is the secure transmission of data over a network, ensuring that the information is protected from unauthorized access. It involves using encryption techniques to encode the data before transmission and decode it at the receiving end with the appropriate decryption key."
+    },
+    {
+        "name": "Encrypted File",
+        "description": "An encrypted file is a digital file that has been transformed into a format that is unreadable without the correct decryption key or passphrase. This is done to protect the file's contents from unauthorized access or viewing. Encrypted files are commonly used to secure sensitive data."
+    },
+    {
+        "name": "Encrypted Traffic Analysis",
+        "description": "Encrypted traffic analysis is the process of analyzing network traffic, even when it's encrypted. While the content of encrypted data remains hidden, various characteristics of the encrypted traffic can be analyzed to detect patterns or anomalies that may indicate security threats or other issues."
+    },
+    {
+        "name": "Encrypted Tunnel",
+        "description": "An encrypted tunnel is a secure communication channel created over an insecure network, such as the internet. It ensures that data transmitted between two points is encrypted and protected from eavesdropping. Virtual Private Networks (VPNs) often use encrypted tunnels to secure data transmission between devices or networks."
+    },
+    {
+        "name": "Encryption",
+        "description": "Encryption is a process of maintaining data confidentiality by converting plain data into secret code with the help of an encryption algorithm. Only users with the appropriate decryption key can unscramble and access encrypted data or cipher text."
+    },
+    {
+        "name": "Encryption Algorithm",
+        "description": "An encryption algorithm is a well-defined, mathematical procedure used to transform plain or unencrypted data into a secure, ciphertext format. Encryption algorithms rely on keys and specific mathematical operations to make data unintelligible to unauthorized parties. The strength and security of encryption depend on the algorithm's complexity and the length and management of encryption keys."
+    },
+    {
+        "name": "Encryption at Rest",
+        "description": "Encryption at rest is the practice of encrypting data when it is stored on non-volatile storage devices, such as hard drives, solid-state drives, or databases. The goal is to protect data even when it is not actively being used. It safeguards the information from physical theft or unauthorized access by rendering it unreadable without the appropriate decryption key."
+    },
+    {
+        "name": "Encryption Backdoor",
+        "description": "An encryption backdoor is a deliberate vulnerability or weakness intentionally inserted into an encryption system or software, typically by design, to allow authorized parties to bypass the encryption and access protected data. This concept is highly controversial, as it can undermine the security and privacy of encrypted information and can lead to concerns regarding government surveillance and data protection."
+    },
+    {
+        "name": "Encryption Decryption",
+        "description": " Encryption is the process of converting data into a secure, unreadable format using an encryption algorithm and a key. Decryption is the reverse process of converting the encrypted data back into its original, readable form using the appropriate decryption key. This is a fundamental technique for data security."
+    },
+    {
+        "name": "Encryption Key",
+        "description": "An encryption key is a piece of information used by encryption algorithms to both encrypt and decrypt data. It serves as the basis for the encryption and decryption processes, and the security of the data largely depends on the strength of the key."
+    },
+    {
+        "name": "Encryption Key Exchange",
+        "description": " Encryption key exchange is the secure process of transmitting cryptographic keys between parties engaged in secure communication. It is a crucial step in setting up secure connections and ensuring that both the sender and receiver have the necessary keys to encrypt and decrypt data. Secure key exchange methods are essential for preventing eavesdropping and unauthorized access to transmitted data."
+    },
+    {
+        "name": "Encryption Key Management",
+        "description": "Encryption key management is a comprehensive process that encompasses the generation, distribution, storage, and protection of cryptographic keys used in encryption and decryption. It involves establishing secure key generation methods, safeguarding keys from unauthorized access, regularly rotating keys, and ensuring their availability when data needs to be encrypted or decrypted. Effective key management is essential for the security and integrity of encrypted data."
+    },
+    {
+        "name": "Encryption Key Rotation",
+        "description": "Encryption key rotation is the practice of regularly changing the cryptographic keys used for encryption and decryption. It is done to enhance security by reducing the window of vulnerability and making it more challenging for attackers to decrypt data that may have been captured with older keys."
+    },
+    {
+        "name": "Encryption Protocol",
+        "description": "An encryption protocol is a set of rules, procedures, and conventions that govern how data is securely transmitted and protected during communication over a network or the internet. These protocols dictate how encryption keys are exchanged, how data is encrypted and decrypted, and how authentication and integrity checks are performed to ensure secure and private communication between parties."
+    },
+    {
+        "name": "Encryption Security Software",
+        "description": "Endpoint security software refers to a category of cybersecurity tools designed to protect individual devices (endpoints), such as computers, smartphones, and servers, from various security threats. This software typically includes features like antivirus, anti-malware, firewall, intrusion detection, and data loss prevention to safeguard endpoints from attacks."
+    },
+    {
+        "name": "Encryption Standard",
+        "description": "Encryption standard refers to a set of rules and protocols used to encrypt data for security purposes. It specifies how data should be transformed into a coded format, making it unreadable to anyone without the proper decryption key. Common encryption standards include AES (Advanced Encryption Standard) and RSA (Rivest-Shamir-Adleman)."
+    },
+    {
+        "name": "Encryption Strength",
+        "description": "Encryption strength refers to the level of security provided by an encryption algorithm. It is determined by factors such as the complexity of the encryption algorithm, the length of encryption keys, and the quality of key management practices. Strong encryption is resistant to unauthorized decryption, making it a fundamental component of data security in various applications. "
+    },
+    {
+        "name": "End-of-Life (EOL) Software",
+        "description": "software refers to software that has reached the end of its official support and maintenance period. This means that the software vendor no longer provides updates, patches, or security fixes, making it potentially vulnerable to security threats. Users are encouraged to upgrade or migrate to a supported version or alternative software."
+    },
+    {
+        "name": "Endpoint Detection and Response (EDR)",
+        "description": "Endpoint Detection and Response (EDR) are tools for protecting computer endpoints from potential threats. EDR platforms comprise software and networking tools for detecting suspicious endpoint activities, usually via continuous network monitoring."
+    },
+    {
+        "name": "Endpoint Detection and Response Solution (EDRS)",
+        "description": "An EDR (Endpoint Detection and Response) solution is a cybersecurity tool designed to monitor and respond to security threats and incidents at the endpoint level, such as individual devices (e.g., computers, servers). EDR solutions provide real-time visibility into endpoint activities, enabling the detection of suspicious behavior. They also offer response capabilities to mitigate threats, investigate incidents, and contain security breaches effectively."
+    },
+    {
+        "name": "Endpoint Protection",
+        "description": "Endpoint Protection refers to a system for network security management that monitors network endpoints, hardware devices such as workstations and mobile devices from which a network is accessed."
+    },
+    {
+        "name": "Endpoint Security Management",
+        "description": "Endpoint security management involves the centralized management and protection of endpoints (devices) within a network. It includes tasks like deploying security software, monitoring for threats, applying patches, and enforcing security policies on laptops, desktops, and mobile devices to safeguard against cyberattacks."
+    },
+    {
+        "name": "End-User Security Training",
+        "description": "End-user security training refers to educating individuals within an organization, such as employees or users, on best practices for maintaining information security. This training aims to raise awareness about potential threats, such as phishing and malware, and instructs users on how to recognize and respond to security incidents effectively. It plays a critical role in enhancing an organization's overall security posture."
+    },
+    {
+        "name": "Enterprise Network Security",
+        "description": "Enterprise network security is the practice of safeguarding an organization's computer networks and information systems from various threats, including cyberattacks, data breaches, and unauthorized access. It encompasses a range of security measures and technologies to protect sensitive data, network infrastructure, and communication channels within a large-scale business or enterprise environment."
+    },
+    {
+        "name": "Enumeration",
+        "description": "Enumeration is a systematic process of extracting information about a target system, network, or device. It involves identifying and listing various resources, services, and entities within the system. Enumeration is often used in the field of computer security to gather valuable information about a system's configuration, potential vulnerabilities, and the services it offers. This information can be critical for attackers seeking to exploit weaknesses in a system or for security professionals looking to assess and improve system security."
+    },
+    {
+        "name": "Escrow Key",
+        "description": "An escrow key is a cryptographic key held in escrow by a trusted third party. It is typically used in scenarios where access to the key is needed for specific purposes, such as data recovery or legal requirements, but is not accessible by the key owner. Escrow keys are often used in encryption systems to ensure key recovery in case of emergencies."
+    },
+    {
+        "name": "Ethical Hacker Certification",
+        "description": "Ethical hacker certification is a credential awarded to individuals who have demonstrated their expertise in cybersecurity and ethical hacking practices. One of the most well-known certifications in this field is the Certified Ethical Hacker (CEH), which certifies professionals in ethical hacking and penetration testing."
+    },
+    {
+        "name": "Ethical Hacking",
+        "description": "Ethical hacking, also known as penetration testing or white-hat hacking, involves authorized individuals or cybersecurity professionals testing a system's security by attempting to identify and exploit vulnerabilities. The goal is to find and fix security weaknesses before malicious hackers can exploit them."
+    },
+    {
+        "name": "Event Correlation",
+        "description": "Event correlation is a process in cybersecurity and network monitoring where data from various sources, such as security logs and sensors, is analyzed to identify patterns and relationships. This helps in detecting and responding to security incidents by linking related events and uncovering potential threats or anomalies."
+    },
+    {
+        "name": "Event Log",
+        "description": "An event log is a record or chronology of events and activities that occur on a computer, network, or system. Event logs are essential for monitoring system behavior, diagnosing issues, and enhancing security. They contain information about user logins, system errors, security incidents, and other relevant activities. Analyzing event logs is a common practice in cybersecurity to detect and respond to security breaches and anomalies."
+    },
+    {
+        "name": "Evil Maid Attack",
+        "description": "An evil maid attack is a type of physical security threat in which an attacker gains unauthorized access to a target's device or computer when it is left unattended in a physical location, such as a hotel room. The attacker may tamper with the device or install malicious software to compromise its security. This attack underscores the importance of physical security measures to protect devices and data."
+    },
+    {
+        "name": "Evil Twin",
+        "description": "An evil twin is a rogue Wi-Fi access point that mimics a legitimate network, enticing users to connect to it. Once connected, it can intercept data and launch attacks on the connected devices."
+    },
+    {
+        "name": "Exfiltration",
+        "description": "Exfiltration refers to the unauthorized and often covert extraction or theft of data from a computer, network, or organization. It involves the removal of sensitive or confidential information from its intended location to an external or unauthorized destination. Exfiltration can occur through various methods, including network transfers, physical theft, or social engineering attacks. Detecting and preventing data exfiltration is a key concern for cybersecurity efforts. "
+    },
+    {
+        "name": "Exfiltration Detection",
+        "description": "Exfiltration detection is the process of identifying unauthorized data transfers or leaks from a network. It involves monitoring network traffic and system logs to detect when sensitive or confidential data is being illicitly removed or transmitted outside the organization."
+    },
+    {
+        "name": "Exploit",
+        "description": "An exploit is taking advantage of a vulnerability or flaw in a network system to penetrate or attack it. It is a means of attack on a computer system, either a series of commands, malicious software, or piece of infected data. Note that in this context, “exploit” is a noun, not a verb, as in “The hacker used a malware exploit to gain access to the credit card’s server.”"
+    },
+    {
+        "name": "Exploit Kit",
+        "description": "An exploit kit is a collection of pre-packaged software tools and exploits used by cybercriminals to automate and streamline the process of exploiting vulnerabilities in computer systems and software. These kits are designed to deliver malware, compromise systems, and gain unauthorized access by taking advantage of known security weaknesses."
+    },
+    {
+        "name": "Exploit Payload",
+        "description": "An exploit payload refers to the malicious code or software delivered by an attacker's exploit. Exploits are used to take advantage of vulnerabilities in a system or software, and the payload is the part that carries out the attacker's malicious objectives, such as installing malware or gaining unauthorized access."
+    },
+    {
+        "name": "Exponential Authentication",
+        "description": "Exponential authentication is an advanced authentication method that leverages multiple factors and layers of security to verify the identity of a user or device. It typically combines traditional factors like passwords with additional factors such as biometrics, smart cards, or behavioral analysis. The goal is to provide a highly secure and robust authentication process."
+    },
+    {
+        "name": "Exposure Assessment",
+        "description": "Exposure assessment is a systematic evaluation of potential risks and vulnerabilities within an organization's information technology infrastructure. It involves identifying and quantifying potential threats and assessing the likelihood and impact of security incidents, helping organizations prioritize security measures."
+    },
+    {
+        "name": "Face Recogniton",
+        "description": "Face recognition, a biometric authentication method, identifies and verifies individuals based on their facial features. It analyzes unique facial characteristics and compares them to stored templates to grant access or confirm identity. It's used in access control and device unlocking. "
+    },
+    {
+        "name": "Failover",
+        "description": "Failover is a redundancy mechanism used in networking and cybersecurity to ensure high availability. When a primary system or service fails, a failover system or backup takes over, minimizing downtime and maintaining continuous operations."
+    },
+    {
+        "name": "False Negative",
+        "description": "A false negative in cybersecurity occurs when a security system fails to detect a genuine threat or malicious activity, marking it as safe or non-threatening. False negatives can pose a significant security risk because actual threats go unnoticed."
+    },
+    {
+        "name": "False Positve",
+        "description": "In the context of cybersecurity, a false positive occurs when a security system incorrectly identifies benign or legitimate activity as a threat. It can lead to unnecessary alerts and additional investigation efforts."
+    },
+    {
+        "name": "Faraday Cage",
+        "description": "A Faraday cage is a shielded enclosure or structure designed to block electromagnetic fields and signals. In cybersecurity, it is used to protect electronic equipment and data from electromagnetic interference and to prevent data leakage through electromagnetic eavesdropping."
+    },
+    {
+        "name": "Fast Identity Online (FIDO)",
+        "description": "Fast Identity Online (FIDO) is a set of open authentication standards that enable a service provider to leverage existing technologies for passwordless authentication."
+    },
+    {
+        "name": "Fast Identity Online 2 (FIDO2)",
+        "description": "FIDO2 is an authentication standard that enables passwordless and strong, public-key-based authentication for online services. It combines the Web Authentication (WebAuthn) and Client-to-Authenticator Protocol (CTAP) to enhance online security and user convenience."
+    },
+    {
+        "name": "Federated Identity",
+        "description": "Federated identity is an authentication and authorization mechanism that allows users to access multiple applications or services using a single set of credentials. It involves trust relationships between identity providers and service providers, enhancing user convenience and security."
+    },
+    {
+        "name": "Federated Single Sign-On",
+        "description": "Federated single sign-on is an authentication mechanism that allows users to access multiple applications and services across different domains or organizations using a single set of credentials. It relies on trust relationships and identity providers to grant secure access."
+    },
+    {
+        "name": "Feedback Control Loop",
+        "description": "A feedback control loop is a mechanism used in cybersecurity to continuously monitor a system, gather data, and make adjustments to maintain or improve security. It helps in responding to threats, vulnerabilities, and changes in the security landscape."
+    },
+    {
+        "name": "Feedback Loop",
+        "description": "A feedback loop in cybersecurity refers to a mechanism that provides information about a system's performance or behavior, allowing adjustments to be made. In the context of security, feedback loops help identify and respond to threats and vulnerabilities by continuously monitoring and adapting security measures."
+    },
+    {
+        "name": "FERPA (Family Educational Rights And Privacy Acts)",
+        "description": "FERPA is a U.S. federal law that protects the privacy of student educational records. It gives parents and eligible students certain rights regarding the access and disclosure of these records and requires educational institutions to maintain their confidentiality."
+    },
+    {
+        "name": "File Encryption",
+        "description": "File encryption is the practice of securing individual files by converting their contents into unreadable ciphertext using encryption algorithms. This prevents unauthorized access and protects sensitive information from exposure in the event of data breaches or theft."
+    },
+    {
+        "name": "File Hash",
+        "description": "A file hash, also known as a checksum or digest, is a fixed-size string of characters generated by a cryptographic hash function from the contents of a file. It serves as a unique identifier for the file and is used for verifying data integrity and detecting changes or tampering."
+    },
+    {
+        "name": "File Integrity Monitoring",
+        "description": "File Integrity Monitoring (FIM) is a security practice that involves monitoring and validating the integrity of files on a system. It checks for any unauthorized changes, additions, or deletions of files, which can indicate potential security breaches."
+    },
+    {
+        "name": "File Sandboxing",
+        "description": "File sandboxing is a security technique that isolates untrusted or potentially harmful files in a controlled environment, called a sandbox. It allows the safe execution of these files while preventing them from accessing or affecting the host system, reducing security risks."
+    },
+    {
+        "name": "Fileless Malware",
+        "description": "Fileless Malware (FM), aka “non-malware,” or “fileless infection,” is a form of malicious computer attack that exists exclusively within the realm of volatile data storage components such as RAM, in memory processes, and service areas. This differentiates this form of malware from the classic memory-resident virus which requires some contact with non-volatile storage media, such as a hard disk drive or a thumb drive. Normally picked up following visits to malicious websites, fileless malware does not exist as a file that can be detected by standard antivirus programs. It lurks within a computer’s working memory and is exceptionally difficult to identify. However, this type of malware rarely survives a computer reboot, after which the computer should work as it did prior to infection."
+    },
+    {
+        "name": "Filter",
+        "description": "A filter in cybersecurity is a mechanism used to screen or control data flows. Filters can be applied to emails, web content, or network traffic to block or allow specific content, helping to prevent malicious or unwanted data from reaching the intended recipient."
+    },
+    {
+        "name": "Fingerprint",
+        "description": "In cybersecurity, a fingerprint refers to a unique digital identifier used to recognize or authenticate a user or a device. It could be a biometric fingerprint (such as a person's actual fingerprint) or a digital fingerprint (a unique signature created from data, like a file's checksum)."
+    },
+    {
+        "name": "Fingerprint Sensor",
+        "description": "A fingerprint sensor is a biometric device that captures and verifies an individual's fingerprint to grant access to a system, device, or application. It is a common method of authentication used in smartphones, laptops, and access control systems."
+    },
+    {
+        "name": "Firewall",
+        "description": "A Firewall is a security system that forms a virtual perimeter around a network of workstations preventing viruses, worms, and hackers from penetrating. It enforces access control policies to monitor and filter incoming and outgoing network traffic, allowing or blocking data based on predefined security rules."
+    },
+    {
+        "name": "Firewall Administrator",
+        "description": "A firewall administrator is responsible for configuring, managing, and maintaining firewall systems within an organization. Their role involves defining and implementing security policies, rules, and access controls to protect the network from unauthorized access and threats."
+    },
+    {
+        "name": "Firewall Rule",
+        "description": "A firewall rule is a specific instruction or configuration within a firewall that dictates how incoming or outgoing network traffic is processed. Rules can permit or deny traffic based on criteria such as source, destination, and port number, helping to enforce security policies."
+    },
+    {
+        "name": "Firmware",
+        "description": "Firmware is a type of software that is permanently stored on hardware devices like routers, cameras, and IoT devices. It controls the device's functionality and can be susceptible to vulnerabilities that need patching to prevent security risks."
+    },
+    {
+        "name": "Firmware Integrity",
+        "description": "Firmware integrity refers to the assurance that the firmware of a device has not been tampered with or modified in an unauthorized manner. Ensuring firmware integrity is critical to prevent vulnerabilities and unauthorized access through firmware-based attacks."
+    },
+    {
+        "name": "Firmware Security",
+        "description": "Firmware is a type of software that is permanently stored on hardware devices like routers, cameras, and IoT devices. It controls the device's functionality and can be susceptible to vulnerabilities that need patching to prevent security risks."
+    },
+    {
+        "name": "Firmware Update",
+        "description": "A firmware update is the process of replacing or upgrading the software embedded in hardware devices to improve functionality, fix bugs, and address security vulnerabilities. Regular firmware updates are essential for maintaining the security of devices like routers and IoT devices."
+    },
+    {
+        "name": "Firmware Vulnerability",
+        "description": "A firmware vulnerability is a security weakness in the software embedded in hardware devices. These vulnerabilities can be exploited by attackers to gain unauthorized access to the device, compromise its functionality, or steal data. Regular updates are crucial to mitigate such risks."
+    },
+    {
+        "name": "First-Party Cookies",
+        "description": "First-party cookies are small pieces of data stored by a website on a user's device. They are created and managed by the website the user is currently visiting and are commonly used for purposes like remembering user preferences and session management."
+    },
+    {
+        "name": "Flash Drive Security",
+        "description": "Flash drive security refers to the measures taken to protect data stored on USB flash drives or external storage devices. This may involve encryption, password protection, and policies to prevent data loss if the device is lost or stolen."
+    },
+    {
+        "name": "Flare (In Intrusion Detection)",
+        "description": "in the context of intrusion detection, refers to patterns or indicators of potential malicious activity or threats that analysts or security systems look for to detect and respond to cyberattacks. It can include specific behaviors, events, or data anomalies."
+    },
+    {
+        "name": "Flaw",
+        "description": "A flaw in cybersecurity refers to a weakness or vulnerability in a system, software, or network that can be exploited by malicious actors to compromise security. Flaws can include coding errors, misconfigurations, or design weaknesses."
+    },
+    {
+        "name": "Forensics",
+        "description": "Cybersecurity forensics involves the collection, analysis, and preservation of digital evidence from computer systems, networks, or devices to investigate cybercrimes, security breaches, or incidents. It helps in understanding what happened and who was responsible."
+    },
+    {
+        "name": "Forensics Analysis",
+        "description": "Forensic analysis in cybersecurity involves the detailed examination and investigation of digital evidence to determine the cause and extent of security incidents or cybercrimes. It often includes data recovery, timeline reconstruction, and the identification of culprits or vulnerabilities."
+    },
+    {
+        "name": "Fortification",
+        "description": "Fortification in cybersecurity refers to strengthening the security of a system, network, or infrastructure to protect it from potential threats and attacks. This includes implementing security measures like firewalls, access controls, and encryption."
+    },
+    {
+        "name": "Forward Secrecy",
+        "description": "Forward secrecy, also known as perfect forward secrecy (PFS), is a cryptographic property that ensures that the encryption keys used for securing communication are ephemeral and not reused. Even if an attacker obtains a key, they cannot decrypt past communications, providing ongoing security."
+    },
+    {
+        "name": "Fraud",
+        "description": "Fraud in cybersecurity refers to deceptive or dishonest activities carried out with the intent of gaining unauthorized access, stealing information, or causing financial harm. It includes various forms like identity theft, phishing, and financial fraud."
+    },
+    {
+        "name": "Fraud Detection System",
+        "description": "A fraud detection system is a technology or solution designed to identify and prevent fraudulent activities, transactions, or behaviors It uses algorithms, machine learning, and rules to analyze data and detect patterns indicative of fraud."
+    },
+    {
+        "name": "Fraudulent Activity",
+        "description": "Fraudulent activity refers to deceptive, illegal, or dishonest actions carried out with the intention of gaining an unfair advantage, often financially, at the expense of others. It can encompass various activities, including identity theft, financial fraud, and cybercrime."
+    },
+    {
+        "name": "Framework",
+        "description": "In cybersecurity, a framework often refers to a structured set of guidelines, tools, and best practices that help organizations design and implement a comprehensive security program. Examples include NIST Cybersecurity Framework and CIS Controls."
+    },
+    {
+        "name": "Frequency Analysis",
+        "description": "Frequency analysis is a cryptanalysis technique used to break or decipher encrypted messages. It involves analyzing the frequency of letters, words, or patterns in the ciphertext to make educated guesses about the corresponding plaintext, especially in cases of weak encryption."
+    },
+    {
+        "name": "Frequency Hopping",
+        "description": "Frequency hopping is a wireless communication technique that involves rapidly switching frequencies during data transmission. This is done to enhance security by making it difficult for eavesdroppers to intercept and decode the transmitted signals, as they need to follow the frequency changes."
+    },
+    {
+        "name": "FTP (File Transfer Protocol)",
+        "description": "FTP is a standard network protocol used for transferring files between a client and a server on a network. It provides a way to upload and download files, but it lacks built-in encryption, making data vulnerable to interception. SFTP (Secure File Transfer Protocol) is a more secure alternative."
+    },
+    {
+        "name": "FUD (Fear, Uncertainty and Doubt)",
+        "description": "FUD is a tactic used to create fear, uncertainty, and doubt about a particular issue, product, or technology. In cybersecurity, it may be employed to exaggerate security risks and persuade individuals or organizations to take specific actions, often with a commercial motive."
+    },
+    {
+        "name": "Full-Disk Encryption",
+        "description": "Full-disk encryption is a data protection technique that encrypts the entire storage drive or disk, ensuring that all data, including the operating system, files, and applications, is stored in an encrypted form. It safeguards data even if the physical storage device is stolen."
+    },
+    {
+        "name": "Full Packet Capture",
+        "description": "Full packet capture is the practice of capturing and storing all network packets, including their content, for analysis and forensics. It provides a comprehensive record of network activity, making it useful for investigating security incidents and analyzing network traffic."
+    },
+    {
+        "name": "Fusion Center",
+        "description": "A fusion center in cybersecurity is a collaborative facility that combines resources, expertise, and intelligence from multiple organizations and agencies to improve threat detection, analysis, and response. These centers play a crucial role in coordinating and sharing information related to cyber threats."
+    },
+    {
+        "name": "Fuzz Testing",
+        "description": "Fuzz testing, also known as fuzzing, is a software testing technique that involves inputting unexpected or random data to a program to discover vulnerabilities, especially in the handling of malformed data. It helps identify and rectify security flaws in software."
+    },
+    {
+        "name": "Fuzzing",
+        "description": "Fuzzing is a cybersecurity testing technique where automated tools input a large amount of random or unexpected data into a software application to discover vulnerabilities and security flaws. It helps identify weaknesses in software that could be exploited by attackers."
+    },
+    {
+        "name": "Gamification",
+        "description": "Gamification is the process of incorporating game-like elements, such as points, rewards, and competition, into non-gaming contexts, such as education, marketing, or employee training, to engage and motivate individuals to achieve specific objectives."
+    },
+    {
+        "name": "Gateway",
+        "description": "In networking and cybersecurity, a gateway is a hardware or software device that acts as an entry or exit point for data between different networks. It can perform various functions like routing, translating protocols, or providing security measures."
+    },
+    {
+        "name": "Geolocation",
+        "description": "Geolocation refers to the process of determining the physical location of a device, user, or object using various technologies, such as GPS, Wi-Fi, or IP addresses. It is commonly used in services like mapping, navigation, and targeted advertising."
+    },
+    {
+        "name": "Ghosting",
+        "description": "In cybersecurity, ghosting refers to the practice of making a malicious software or attacker's presence undetectable on a compromised system. This allows the attacker to operate stealthily and evade detection."
+    },
+    {
+        "name": "Gray hat",
+        "description": "Gray hat hackers are individuals who fall between the categories of white hat (ethical) and black hat (malicious) hackers. They may engage in hacking activities without authorization but with good intentions, such as pointing out vulnerabilities to organizations."
+    },
+    {
+        "name": "Greylist",
+        "description": "A Greylist contains items that are temporarily blocked (or temporarily allowed) until an additional step is performed."
+    },
+    {
+        "name": "Grid Computing",
+        "description": "Grid computing is a distributed computing model that utilizes the processing power of multiple computers to work on complex tasks or problems. It involves coordinating and sharing resources across a network, often for scientific research or large-scale data processing."
+    },
+    {
+        "name": "Grooming",
+        "description": "Grooming, in the context of online safety and child protection, refers to the actions taken by individuals with harmful intent to manipulate and build trust with minors for the purpose of sexual exploitation or abuse. It is a serious concern and often involves online communication and manipulation tactics."
+    },
+    {
+        "name": "GUI (Graphical User Interface)",
+        "description": "A GUI is a type of user interface that allows users to interact with electronic devices or software through graphical elements such as icons, buttons, windows, and menus, rather than text-based commands. GUIs make it more intuitive for users to perform tasks, as they can visually see and nteract with elements on the screen, making computing more accessible to a broader audience."
+    },
+    {
+        "name": "Hacker",
+        "description": "A Hacker is a term commonly used to describe a person who tries to gain unauthorized access to a network or computer system."
+    },
+    {
+        "name": "Hacking",
+        "description": "Hacking refers to the practice of gaining unauthorized access to computer systems, networks, or digital devices for various purposes, including data theft, disruption, or espionage. It involves exploiting vulnerabilities or weaknesses in a system's security to breach its defenses. Hacking can be categorized as ethical (white hat), where individuals use their skills for legal and beneficial purposes, or malicious (black hat) when used for illegal or harmful activities."
+    },
+    {
+        "name": "Hardening",
+        "description": "Hardening is the process of strengthening the security of a computer system or network by reducing vulnerabilities and minimizing potential attack surfaces. It involves various security practices, such as configuring systems to be less susceptible to security threats, applying security patches, implementing access controls, and monitoring for potential security breaches. The goal is to enhance the overall resilience of the system against cyberattacks and unauthorized access."
+    },
+    {
+        "name": "Hardware Security Module (HSM)",
+        "description": "An HSM is a dedicated hardware device or appliance designed to provide a high level of security for cryptographic operations and key management. HSMs are used to securely generate, store, and manage cryptographic keys and perform encryption and decryption operations. They are often employed in applications like secure communications, digital signatures, and data protection."
+    },
+    {
+        "name": "Hash",
+        "description": "A hash is a fixed-length string of characters generated through a mathematical algorithm known as a hashing function. It takes input data of arbitrary length and converts it into a fixed-size output. Hashes are used in cybersecurity to verify data integrity, as even a minor change in the input data results in a significantly different hash. They are also employed in password storage, where the actual password is not stored, but rather its hash, enhancing security."
+    },
+    {
+        "name": "Hijacking",
+        "description": ": Hijacking, in the context of cybersecurity, involves taking control of a computer system, network, or user's online session without authorization. Cybercriminals may hijack a user's session or data transmission to intercept or manipulate information. Common examples include session hijacking, where an attacker takes over a user's active session on a website, or DNS hijacking, where attackers redirect domain name system requests to malicious servers. The aim is often to steal data, inject malware, or perform other malicious activities."
+    },
+    {
+        "name": "Honeypot",
+        "description": "Honeypots are computer security programs that simulate network resources that hackers are likely to look for to lure them in and trap them. An attacker may assume that you’re running weak services that can be used to break into the machine. A honeypot provides you with advanced warning of a more concerted attack. Two or more honeypots on a network form a honeynet."
+    },
+    {
+        "name": "Host",
+        "description": "In cybersecurity, a host refers to any computer or device connected to a network, typically with a unique IP (Internet Protocol) address. Hosts can be servers, workstations, routers, or any device capable of sending or receiving data within a network."
+    },
+    {
+        "name": "Hotfix",
+        "description": "A hotfix is a small, targeted software update or patch released by software vendors to address specific issues, vulnerabilities, or bugs in their software products. Hotfixes are typically deployed quickly to resolve critical problems without requiring a full software upgrade or waiting for the next major release."
+    },
+    {
+        "name": "HTTPS",
+        "description": "HTTPS (HyperText Transfer Protocol Secure) is a protocol for secure communication over the internet. It combines the standard HTTP protocol with encryption provided by SSL/TLS (Secure Sockets Layer/Transport Layer Security) to ensure that data transmitted between a user's web browser and a website is encrypted and secure. This encryption helps protect sensitive information, such as login credentials and payment details, from eavesdropping and unauthorized access."
+    },
+    {
+        "name": "Human Firewall",
+        "description": "is a concept in cybersecurity that refers to the practice of training and educating employees to be vigilant and cautious when it comes to security threats. This includes recognizing phishing emails, not sharing sensitive information, and following security protocols to protect an organization's digital assets. In essence, employees are the first line of defense in preventing cyberattacks and data breaches."
+    },
+    {
+        "name": "Hybrid Cloud",
+        "description": "A hybrid cloud is a cloud computing environment that combines elements of both private and public clouds. It allows organizations to run applications and store data in a mix of on-premises infrastructure, private cloud, and public cloud services. This flexibility enables businesses to take advantage of cloud scalability while retaining control over sensitive data and critical workloads."
+    },
+    {
+        "name": "ICMP (Internet Control Message Protocol)",
+        "description": "ICMP is a network protocol used to send error messages and operational information regarding the status of a network. It plays a role in diagnosing network issues and can also be used maliciously for activities like ping flooding in a Denial of Service (DoS) attack."
+    },
+    {
+        "name": "ICMP Flood Attack",
+        "description": "An ICMP flood attack is a type of Distributed Denial of Service (DDoS) attack where a malicious actor overwhelms a target system with a high volume of Internet Control Message Protocol (ICMP) requests. This flood of requests can disrupt the target's network connectivity and potentially make it inaccessible."
+    },
+    {
+        "name": "ICS (Industrial Control Systems) Security",
+        "description": "ICS security refers to the measures and practices put in place to protect critical infrastructure systems, such as power plants and manufacturing facilities. It involves safeguarding the hardware, software, and networks that control these systems from cyberattacks and physical threats. "
+    },
+    {
+        "name": "Identity",
+        "description": "Theft Identity Theft occurs when a malicious actor gathers enough personal information from the victim (name, address, date of birth, etc.) to enable him to commit identity fraud – i.e., the use of stolen credentials to obtain goods or services by deception. Stolen data can be used to create a new account in the victim’s name (e.g., a bank account), to take over an existing account held by the victim (e.g., a social network account), or to masquerade as the victim while carrying out criminal activities."
+    },
+    {
+        "name": "Identity and Access Management",
+        "description": "Identity federation is a mechanism that allows users to access multiple systems and services with a single set of credentials. It enables users to use their identity from one system to access resources on other systems securely, often across different organizations or domains."
+    },
+    {
+        "name": "Identity Federation",
+        "description": "Theft Identity Theft occurs when a malicious actor gathers enough personal information from the victim (name, address, date of birth, etc.) to enable him to commit identity fraud – i.e., the use of stolen credentials to obtain goods or services by deception. Stolen data can be used to create a new account in the victim’s name (e.g., a bank account), to take over an existing account held by the victim (e.g., a social network account), or to masquerade as the victim while carrying out criminal activities."
+    },
+    {
+        "name": "Identity Theft",
+        "description": "Identity theft is a type of cybercrime where an individual's personal information, such as their name, Social Security number, or financial details, is stolen and used by someone else without their permission for fraudulent purposes often leading to financial losses or damage to one's reputation."
+    },
+    {
+        "name": "Identity Theft Protection",
+        "description": " A range of measures and services aimed at safeguarding individuals' personal and financial information from theft and misuse by malicious actors."
+    },
+    {
+        "name": "Identity Management",
+        "description": "Identity management refers to the processes and technologies used to establish and manage the identities of users, devices, or entities in a system. It involves tasks like user authentication, account creation, and access control."
+    },
+    {
+        "name": "Identity Verification",
+        "description": "is the process of confirming that an individual's claimed identity matches their actual identity. It is commonly used in various fields such as finance, online services, and security.Methods for identity verification include presenting government-issued IDs, biometric data (fingerprint or facial recognition), or knowledge-based authentication (answering security questions).Accurate identity verification is crucial for preventing identity theft, fraud, and ensuring secure access to sensitive information or services."
+    },
+    {
+        "name": "Impersonation",
+        "description": "The act of pretending to be someone else, either for malicious purposes like fraud or for benign reasons, such as acting in a theatrical role."
+    },
+    {
+        "name": "Incognito Mode",
+        "description": "A browsing mode in web browsers that allows users to surf the internet without saving browsing history, cookies, or other data, providing a level of privacy."
+    },
+    {
+        "name": "Incident Handling",
+        "description": "The systematic process of detecting, responding to, and mitigating security incidents, such as breaches or cyberattacks, to minimize damage and prevent future occurrences."
+    },
+    {
+        "name": "Incident Recovery",
+        "description": "Incident recovery is the process of restoring systems and services to normal operation after a security incident or a disaster. It includes activities like data restoration, system patching, and overall remediation to mitigate the impact of the incident."
+    },
+    {
+        "name": "Indicators of Compromise",
+        "description": "Indicators of Compromise (IoC) are bits of forensic data from system log entries or files that identify potentially malicious activity on a system or network. Indicators of Compromise aid information security and IT professionals in detecting data breaches, malware infections, or other threat activity."
+    },
+    {
+        "name": "Information Assurance",
+        "description": "Information assurance refers to the set of policies, processes, and technologies that ensure the confidentiality, integrity, availability, and authenticity of information within an organization. It encompasses practices for safeguarding sensitive data and ensuring its reliable use."
+    },
+    {
+        "name": "Information Disclosure",
+        "description": "Information disclosure refers to the unintentional or unauthorized exposure of sensitive data or information. This can occur due to misconfigured systems, weak security practices, or deliberate actions by malicious actors seeking to obtain confidential information."
+    },
+    {
+        "name": "Information Leakage",
+        "description": "Information leakage occurs when sensitive or confidential data is disclosed to unauthorized individuals or entities. This can happen through various means, including accidental data exposure, security breaches, or the improper handling of data."
+    },
+    {
+        "name": "Information Security",
+        "description": "Information security is a comprehensive approach to protecting sensitive data from unauthorized access, disclosure, alteration, and destruction. It encompasses a wide range of practices, technologies, and policies to ensure the confidentiality, integrity, and availability of information."
+    },
+    {
+        "name": "Information Technology Security",
+        "description": "The practice of protecting computer systems, networks, and data from unauthorized access, breaches, and damage through a combination of technologies, policies, and procedures. "
+    },
+    {
+        "name": "Infection Vector",
+        "description": "The means or pathway through which malicious software or malware is introduced into a computer system, network, or device."
+    },
+    {
+        "name": "Infrastructure Security",
+        "description": "Infrastructure security involves protecting the physical and digital components of a network, system, or organization. It includes measures to safeguard servers, data centers, routers, switches, and other critical components from unauthorized access, disruption, or damage."
+    },
+    {
+        "name": "Injection Attack",
+        "description": "An injection attack is a type of cyberattack where malicious code or data is inserted into an application, database, or system to exploit vulnerabilities and execute unauthorized commands. Common examples include SQL injection and Cross-Site Scripting (XSS) attacks."
+    },
+    {
+        "name": "In-line Network Device",
+        "description": "An In-line Network Device is one that receives packets and forwards them to their intended destination. In-line network devices include routers, switches, firewalls, and intrusion detection and intrusion prevention systems, web application firewalls, anti-malware, and network taps. NetworkSecure delivers comprehensive in-line cybersecurity protection to CSP subscribers."
+    },
+    {
+        "name": "Insider Threat",
+        "description": "An Insider Threat is when an authorized system user, usually an employee or contractor, poses a threat to an organization because they have authorized access to inside information and therefore bypass most perimeter-based security solutions."
+    },
+    {
+        "name": "Insider Threat Detection",
+        "description": "Insider threat detection involves monitoring and identifying potential security risks or malicious activities within an organization that are perpetrated by individuals with legitimate access. These threats can be from employees, contractors, or other trusted entities."
+    },
+    {
+        "name": "Insider Risk",
+        "description": "Insider risk represents the potential threat posed by individuals within an organization who may intentionally or unintentionally compromise security. This encompasses actions that can lead to data breaches, including data theft, negligence, or non-compliance with security policies."
+    },
+    {
+        "name": "Integrity Check",
+        "description": "The process of verifying the consistency, accuracy, and completeness of data or files to ensure that they have not been tampered with or corrupted."
+    },
+    {
+        "name": "Internet",
+        "description": "Short for 'interconnected networks', is a vast global network of interconnected computer networks that allows people and machines to communicate and share information with each other. It has become an integral part of modern life and has several key characteristics."
+    },
+    {
+        "name": "Intranet",
+        "description": "An intranet is a private network based on internet technologies used within an organization. It allows employees to share information, collaborate, and access company resources such as documents and applications. Intranets are restricted to authorized users and are not accessible to the public."
+    },
+    {
+        "name": "Intrusion Analysis",
+        "description": "The examination and evaluation of security breaches or unauthorized access to computer systems to understand how they occurred, identify vulnerabilities, and enhance security measures."
+    },
+    {
+        "name": "Intrusion Detection",
+        "description": "Intrusion detection is the process of monitoring a computer system or network for signs of unauthorized access or malicious activities. Intrusion detection systems (IDS) analyze network traffic or system events to identify suspicious patterns and trigger alerts for further investigation."
+    },
+    {
+        "name": "Intrusion Detection System (IDS)",
+        "description": "An Intrusion Detection System is a security tool or software that monitors network or system activities for signs of unauthorized access, malicious activities, or policy violations. It can be either network-based (NIDS) or host-based (HIDS) and provides alerts when suspicious behavior is detected."
+    },
+    {
+        "name": "Intrusion Prevention System",
+        "description": "An Intrusion Prevention System (IPS) is a network security system designed to prevent network penetration by malicious actors."
+    },
+    {
+        "name": "IoT",
+        "description": "The term Internet of Things (IoT) is used to describe everyday objects that are connected to the internet and are able to collect and transfer data automatically, without the need for human interaction. The Internet of Things encompasses any physical object (not just traditional computers) that can be assigned an IP address and can transfer data: this includes household appliances, utility meters, cars, CCTV cameras, and even people (e.g., heart implants)."
+    },
+    {
+        "name": "IoT Devices",
+        "description": "IoT devices, or Internet of Things devices, are physical objects (such as sensors, appliances, or vehicles) that are embedded with sensors, software, and connectivity features, enabling them to collect and exchange data with other devices and systems over the internet."
+    },
+    {
+        "name": "IoT Security",
+        "description": "IoT security focuses on safeguarding the interconnected devices and systems in the Internet of Things. This includes protecting IoT devices from cyber threats, securing data transmitted between them, and ensuring the privacy of IoT users."
+    },
+    {
+        "name": "IP Address",
+        "description": "The world IP stands for Internet Protocol. An IP address is a series of numbers allocated to computers routers  servers, and pretty much anything connected to the Internet, including websites. It functions very similarly to a standard address, allowing users to find any system or device on the global network by specifying its location"
+    },
+    {
+        "name": "IPSec",
+        "description": "IPsec is a suite of protocols and technologies used to secure internet communications by providing authentication, encryption, and data integrity. It's commonly used to create Virtual Private Networks (VPNs) and secure data transmission over IP networks."
+    },
+    {
+        "name": "IPSec Tunnel",
+        "description": "A secure communication channel created using the Internet Protocol Security (IPsec) protocol to encrypt and protect data traffic between two endpoints over a network."
+    },
+    {
+        "name": "IPSec VPN",
+        "description": "IPsec VPN is a secure communication method that uses the Internet Protocol Security (IPsec) suite to create encrypted connections between devices or networks over the internet. It ensures data privacy and security in transit, making it commonly used for remote access and site-to-site connectivity."
+    },
+    {
+        "name": "IP Filtering",
+        "description": "short for Internet Protocol Filtering, is a network security mechanism used to control or manage network traffic based on the source or destination IP addresses.It can be used to allow or block specific IP addresses or ranges, which is often done to enhance network security or control access to certain resources.In the context of web filtering, IP filtering can be used to block access to websites or services from specific IP addresses, restricting or allowing content as needed."
+    },
+    {
+        "name": "IP Spoofing",
+        "description": "IP spoofing is a deceptive technique where an attacker alters the source IP address of network packets to impersonate a different machine or hide their identity. This can be used in cyberattacks to disguise the origin of malicious traffic."
+    },
+    {
+        "name": "Isolation",
+        "description": "Isolation refers to the state of being separated or cut off from others or the external environment. It can be physical, emotional, or social in nature.In a medical context, isolation can involve keeping individuals with contagious diseases away from those who are not infected to prevent the spread of the disease.In technology, network isolation means keeping certain parts of a network separate from others to enhance security. For example, isolating sensitive data from the public internet."
+    },
+    {
+        "name": "Isolation Testing",
+        "description": "A method in software or hardware developments to test a component or system in isolation, often to identify and resolve issues without interference from other parts of the system."
+    },
+    {
+        "name": "IT Risk Management",
+        "description": "IT risk management involves the identification, assessment, and mitigation of risks related to an organization's information technology systems and infrastructure. This process helps in minimizing the impact of potential threats and ensuring business continuity."
+    },
+    {
+        "name": "Jail Breaking",
+        "description": "Jail breaking is the process of removing software restrictions imposed by the manufacturer or operating system on a mobile device, typically for the purpose of gaining more control over the device and running unofficial software It can pose security risks, as it can make devices more vulnerable to malware and security breaches."
+    },
+    {
+        "name": "Java Security",
+        "description": "Java security involves the protection of systems and applications developed using the Java programming language. It encompasses security features and practices to prevent unauthorized access, code execution vulnerabilities, and other Java-specific threats."
+    },
+    {
+        "name": "JavaScript Security",
+        "description": "JavaScript security refers to the practices and measures used to protect web applications and systems that use JavaScript from vulnerabilities and threats. This includes safeguarding against cross-site scripting (XSS) attacks, data exposure, and other malicious activities that can be carried out through JavaScript code."
+    },
+    {
+        "name": "Jitter",
+        "description": "Jitter in the context of cybersecurity can refer to the variability in the timing or delay of data packets in a network. It can affect the quality of voice and video communication and may be exploited in certain attacks."
+    },
+    {
+        "name": "Job Rotation",
+        "description": "Job rotation is a security practice that involves periodically shifting employees to different roles or responsibilities within an organization. This is done to reduce the risk of insider threats and fraud by limiting the time employees spend in one sensitive position."
+    },
+    {
+        "name": "Joiner Attacks",
+        "description": "Joiner attacks refer to cyberattacks that occur when new users or devices are added to a network or system. These attacks can exploit vulnerabilities during the onboarding process, potentially leading to security breaches."
+    },
+    {
+        "name": "JSON Injection",
+        "description": "JSON (JavaScript Object Notation) injection is a type of security vulnerability where an attacker manipulates or injects malicious data into JSON-formatted input, which can lead to data disclosure or code execution vulnerabilities in web applications."
+    },
+    {
+        "name": "JTAG (Joint Test Action Group)",
+        "description": "JTAG is a standard for testing and debugging electronic devices, such as integrated circuits and printed circuit boards. While it's not primarily a security term, JTAG interfaces can be potential security risks if they provide unauthorized access to a device."
+    },
+    {
+        "name": "Jumbo Frame",
+        "description": "Jumbo frames are Ethernet frames with a larger payload size than standard frames. While not a security term, their use can affect network security as they can introduce inefficiencies and potential vulnerabilities if not configured correctly."
+    },
+    {
+        "name": "Jump Box",
+        "description": "A jump box, also known as a jump server or pivot host, is a secure intermediary system used to access and manage other systems in a network. It helps control and monitor access to critical systems and enhances security."
+    },
+    {
+        "name": "Junction Table",
+        "description": "In the context of databases, a junction table is used to establish many-to-many relationships between entities. While not a security term in itself, the design and management of junction tables can impact database security."
+    },
+    {
+        "name": "Just-In-Time (JIT) Compilation",
+        "description": "JIT compilation is a technique used in programming languages and virtual machines. It involves translating code into machine code at runtime to improve execution speed. JIT compilation can have security implications if not properly secured against code injection attacks."
+    },
+    {
+        "name": "Keylogger",
+        "description": "A Keylogger is a kind of spyware software that records every keystroke made on a computer’s keyboard. It can record everything a user types including instant messages, email, usernames, and passwords."
+    },
+    {
+        "name": "Malvertising",
+        "description": "Malvertising is the use of online ads to distribute malicious programs. Cybercriminals embed a special script in a banner, or redirect users who click on an ad to a special page containing code for downloading malware. Special methods are used to bypass large ad network filters and place malicious content on trusted sites. In some cases, visitors do not even need to click on a fake ad — the code executes when the ad is displayed."
+    },
+    {
+        "name": "Malware",
+        "description": "Malware is a general term for any type of intrusive computer software with malicious intent against the user. Malware is short for 'malicious software'. It is a broad term that encompasses various types of harmful software, including viruses, worms, Trojans, spyware, and ransomware. Malware is designed to damage, disrupt, or gainunauthorized access to computer systems and data."
+    },
+    {
+        "name": "Man-in-the-middle attack",
+        "description": "A man-in-the-middle attack (MITM) is an attack where the attacker secretly relays and possibly alters the communications between two parties who believe they are directly communicating with each other. For example, a victim believes he’s connected to his bank’s website and the flow of traffic to and from the real bank site remains unchanged, so the victim sees nothing suspicious. However, the traffic is redirected through the attacker’s site, allowing the attacker to gather any personal data entered by the victim (login, password, PIN, etc.)."
+    },
+    {
+        "name": "MITRE ATT&CK™ framework",
+        "description": "The MITRE ATT&CK™ framework is a comprehensive matrix of tactics and techniques used by threat hunters, red teamers, and defenders to better classify attacks and assess an organization’s risk. The aim of the framework is to improve post-compromise detection of adversaries in enterprises by illustrating the actions an attacker may have taken."
+    },
+    {
+        "name": "Multi-factor authentication (MFA)",
+        "description": "Multi-factor authentication (MFA), also referred to as two-factor authentication, makes it more difficult for hackers to access your account by requiring you to provide at least two different credentials. MFA requires a second factor to confirm your identity in addition to your username and password, such as a one-time security code, a fingerprint scan, or a face recognition scan."
+    },
+    {
+        "name": "Network",
+        "description": "Two or more computers connected together to share resources (such printers and CDs), exchange files, or enable electronic communications make up a network. A network's connections to its computers can be made by cables, phone lines, radio waves, satellites, or infrared laser beams."
+    },
+    {
+        "name": "Network-based (cyber) Security",
+        "description": "Mass-market cybersecurity services (e.g., anti-malware, anti-phishing) that operate from within a CSP’s network and not at the endpoint, such as a PC or a mobile device. Network-based services can protect any connected device regardless of model or operating system. This type of service, however, cannot be bypassed like other cybersecurity solutions and they can be implemented with no software installation, upgrades or configuration required on the part of the end user, leading to high rates of service adoption."
+    },
+    {
+        "name": "Parental Controls",
+        "description": "Parental Controls are features which may be included in digital television services, computer and video games, mobile devices, and software that allow parents to restrict the access of content to their children. These controls were created to help parents control which types of content can be viewed by their children."
+    },
+    {
+        "name": "Patch",
+        "description": "A Patch provides additional, revised or updated code for an operating system or application. Except for open source software, most software vendors do not publish their source code. So, patches are typically pieces of binary code that are patched into an existing program (using an install program)."
+    },
+    {
+        "name": "Penetration Testing",
+        "description": "Pen (Penetration) Testing is the practice of intentionally challenging the security of a computer system, network, or web application to discover vulnerabilities that an attacker or hacker could exploit."
+    },
+    {
+        "name": "Phishing",
+        "description": "Phishing is a type of internet fraud that seeks to acquire a user’s credentials by deception. It includes the theft of passwords, credit card numbers, bank account details, and other confidential information. Phishing messages usually take the form of fake notifications from banks, providers, e-pay systems, and other organizations. The phishing attempt will try to encourage a recipient, for one reason or another, to enter/update personal data. Common reasons given can include “suspicious login to the account,” or “expiration of the password.”"
+    },
+    {
+        "name": "PII",
+        "description": "Personal Identifiable Information (PII or PII) is a type of data that identifies the unique identity of an individual."
+    },
+    {
+        "name": "Process Hollowing",
+        "description": "Process Hollowing is a security exploit in which an attacker removes code in an executable file and replaces it with malicious code. The process hollowing attack is used by hackers to cause an otherwise legitimate process to execute malicious code. This attack can be done while evading potential defenses, such as detection analysis software."
+    },
+    {
+        "name": "Ransomware",
+        "description": "Ransomware is the name given to malicious programs designed to extort money from victims by blocking access to the computer or encrypting stored data. The malware displays a message offering to restore the system/data in return for payment. Sometimes, cybercriminals behind the scam try to lend credibility to their operation by masquerading as law enforcement officials. Their ransom message asserts that the system has been blocked, or the data encrypted, because the victim is running unlicensed software or has accessed illegal content, and that the victim must pay a fine."
+    },
+    {
+        "name": "Recovery",
+        "description": "Recovery refers to the process of restoring data or systems from backups in the event of data loss, system failures, or disasters. It involves retrieving and reintegrating the backed-up data or systems into the production environment to ensure business continuity."
+    },
+    {
+        "name": "Remote Desktop Protocol",
+        "description": "RDP is a protocol for remotely connecting to computers running Windows. It enables interaction with desktop elements as well as access to other device resources. RDP was conceived as a remote administration tool. However, it is often used by intruders to penetrate targeted computers. By exploiting incorrectly configured RDP settings or system software vulnerabilities, cybercriminals can intercept an RDP session and log into the system with the victim’s permissions."
+    },
+    {
+        "name": "Risktool",
+        "description": "Risktool programs have various functions, such as concealing files in the system, hiding the windows of running applications, or terminating active processes. They are not malicious in themselves, but include cryptocurrency miners that generate coins using the target device’s resources. Cybercriminals usually use them in stealth mode. Unlike NetTool, such programs are designed to operate locally."
+    },
+    {
+        "name": "Rootkit",
+        "description": "A Rootkit is a collection of software tools or a program that gives a hacker remote access to, and control over, a computer or network. Rootkits themselves do not cause direct harm – and there have been legitimate uses for this type of software, such as to provide remote end user support. However, most rootkits open a backdoor on targeted computers for the introduction of malware, viruses, and ransomware, or use the system for further network security attacks. A rootkit is typically installed through a stolen password, or by exploiting system vulnerabilities without the victim’s knowledge. In most cases, rootkits are used in conjunction with other malware to prevent detection by endpoint antivirus software."
+    },
+    {
+        "name": "Sandbox(ing)",
+        "description": "In cybersecurity, a sandbox is an isolated environment on a network that mimics end-user operating environments. Sandboxes are used to safely execute suspicious code without risking harm to the host device or network."
+    },
+    {
+        "name": "Scareware",
+        "description": "Scareware is malware that uses scare tactics, often in the form of pop-ups that falsely warn users they have been infected with a virus, to trick users into visiting malware-containing websites."
+    },
+    {
+        "name": "SECaaS",
+        "description": "Security as a Service (SECaaS) is a type of cloud computing service where the provider offers the customer the ability to use a provided application. Examples of a SECaaS include online e-mail services or online document editing systems. A user of a SECaaS solution is only able to use the offered application and make minor configuration tweaks. The SECaaS provider is responsible for maintaining the application. Allot Secure is the first solution to offer SECaaS en mass to network service subscribers. "
+    },
+    {
+        "name": "Secure Sockets Layer",
+        "description": "A Secure Sockets Layer (SSL) is the standard security technology for establishing an encrypted link between a web server and a browser. SSL was originally developed by Netscape to allow the private transmission of documents via the Internet."
+    },
+    {
+        "name": "Security Incident Response",
+        "description": "Incident response is a planned approach to addressing and managing the reaction after a cyber attack or network security breach. The goal is to have clear procedures defined before an attack occurs to minimize damage, reduce disaster recovery time, and mitigate breach-related expenses."
+    },
+    {
+        "name": "Security Information and Event Management",
+        "description": "Security Information and Event Management (SIEM) is a formal process by which the security of an organization is monitored and evaluated on a constant basis. SIEM helps to automatically identify systems that are out of compliance with the security policy as well as to notify the IRT (Incident Response Team) of any security-violating events."
+    },
+    {
+        "name": "Security Operations Center",
+        "description": "An Information Security Operations Center ( ISOC or SOC) is a facility where enterprise information systems (websites, applications, databases, data centers and servers, networks, desktops, and other endpoints) are monitored, assessed, and defended by SOC analysts."
+    },
+    {
+        "name": "Security Perimeter",
+        "description": "A Security Perimeter is a digital boundary that is defined for a system or domain within which a specified security policy or security architecture is applied."
+    },
+    {
+        "name": "SIM Swapping",
+        "description": "SIM Swapping is a scam used to intercept online banking SMS verification codes. To get hold of one-time passwords for financial transactions, cybercriminals create or fraudulently obtain a copy of the victim’s SIM card — for example, pretending to be the victim, the attacker might claim to have lost the SIM card and request a new one from the mobile operator. To protect clients from such schemes, most banks require that a replacement SIM card be re-linked to the account."
+    },
+    {
+        "name": "SOAR",
+        "description": "SOAR (Security Orchestration, Automation and Response) is a solution stack of compatible software programs that organizations use to collect data about security threats from across the network and respond to low-level security events without human assistance."
+    },
+    {
+        "name": "Social Engineering",
+        "description": "Social Engineering is an increasingly popular method of gaining access to unauthorized resources by exploiting human psychology and manipulating users – rather than by breaking in or using technical hacking techniques. Instead of trying to find a software vulnerability in a corporate system, a social engineer might send an email to an employee pretending to be from the IT department, trying to trick him into revealing sensitive information. Social engineering is the foundation of spear phishing attacks."
+    },
+    {
+        "name": "Spam",
+        "description": "Spam is the name commonly given to unsolicited emails. Essentially unwanted advertising, it’s the email equivalent of physical junk mail delivered through the post."
+    },
+    {
+        "name": "Spear Phishing",
+        "description": "Spear Phishing is a phishing scam that targets a specific individual or organization, usually via a personalized email, SMS or other electronic communication to defraud them under the guise of a legitimate transaction."
+    },
+    {
+        "name": "Spoofing",
+        "description": "A Spoof is an attack attempt by an unauthorized entity or attacker to gain illegitimate access to a system by posing as an authorized user. Spoofing includes any act of disguising a communication from an unknown source as being from a known, trusted source. Spoofing can apply to emails, phone calls, and websites, or can be more technical, such as a computer spoofing an IP address."
+    },
+    {
+        "name": "Spyware",
+        "description": "Spyware is software that is secretly installed on a user’s device to gather sensitive data. Spyware quietly collects information such as credentials and sends it outside the network to bad actors. Spyware often comes in the form of a free download and is installed automatically, with or without user consent."
+    },
+    {
+        "name": "Threat Assessment",
+        "description": "Threat Assessment is a structured process used to identify and evaluate various risks or threats that an organization might be exposed to. Cyber threat assessment is a crucial part of any organization’s risk management strategy and data protection efforts."
+    },
+    {
+        "name": "Threat Hunting",
+        "description": "Cyber Threat Hunting is an active cyber defense activity where cybersecurity professionals actively search networks to detect and mitigate advanced threats that evade existing security solutions."
+    },
+    {
+        "name": "Threat Intelligence",
+        "description": "Threat Intelligence, or cyber threat intelligence, is intelligence proactively obtained and used to understand the threats that are targeting the organization. Trojan Trojans are malicious programs that perform actions that are not authorized by the user: they delete, block, modify or copy data, and they disrupt the performance of computers or computer networks. Unlike viruses and worms, Trojans are unable to make copies of themselves or self-replicate."
+    },
+    {
+        "name": "Trojan Horse",
+        "description": "Yet another form of malware, this one a misleading computer program that looks innocent, but in fact allows the hacker into your system via a back door, allowing them to control your computer."
+    },
+    {
+        "name": "Two-factor Authentification (2FA)",
+        "description": "Two-factor Authentification combines a static password with an external authentication device such as a hardware token that generates a randomly-generated one-time password, a smart card, an SMS message (where a mobile phone is the token), or a unique physical attribute like a fingerprint."
+    },
+    {
+        "name": "Two-step Authentification",
+        "description": "Two-step Authentification is commonly used on websites and is an improvement over single factor authentication. This form of authentication requires the visitor to provide their username (i.e. claim an identity) and password (i.e. the single factor authentication) before performing an additional step. The additional step could be receiving a text message with a code, then typing that code back into the website for confirmation. Alternatives include receiving an email and needing to click on a link in the message for confirmation, or viewing a pre-selected image and statement before typing in another password or PIN."
+    },
+    {
+        "name": "User Authentication",
+        "description": "A technique to prevent unauthorized users from accessing sensitive data is user authentication. For instance, User A can only see data that is relevant and cannot view User B's sensitive information."
+    },
+    {
+        "name": "Virus",
+        "description": "A Virus is a malicious computer program that is often sent as an email attachment or a download with the intent of infecting that device. Once the device is infected, a virus can hijack the web browser, display unwanted ads, send spam, provide criminals with access to the device and contact list, disable security settings, scan, and find personal information like passwords."
+    },
+    {
+        "name": "VPN",
+        "description": "A Virtual Private Network (VPN) extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network. It is essentially a virtual, secure corridor."
+    },
+    {
+        "name": "Vulnerability",
+        "description": "Vulnerabilities are weaknesses in software programs that can be exploited by hackers to compromise computers."
+    },
+    {
+        "name": "WAF",
+        "description": "A Web Application Firewall (WAF) is a specific form of application firewall that filters, monitors, and blocks HTTP traffic to and from a web service. By inspecting HTTP traffic, it can prevent attacks exploiting a web application’s known vulnerabilities, such as SQL injection, cross-site scripting (XSS), file inclusion, and improper system configuration."
+    },
+    {
+        "name": "White hat – Black Hat",
+        "description": "White hat – Black Hat are terms to describe the ‘good guys’ and ‘bad guys’ in the world of cybercrime. Blackhats are hackers with criminal intentions. White-hats are hackers who use their skills and talents for good and work to keep data safe from other hackers by finding system vulnerabilities that can be fixed."
+    },
+    {
+        "name": "Whitelist, Allowlist",
+        "description": "A Whitelist, allowlist, passlist is a list of permitted items that are automatically let through whatever gate is being used."
+    },
+    {
+        "name": "Worm",
+        "description": "Malware that can reproduce itself for the purposes of spreading itself to other computers in the network. Particularly nasty, worms can either be simply a means of slowing down a system by eating up resources, or by committing exploits such as installing back doors or stealing data."
+    },
+    {
+        "name": "Zero Trust",
+        "description": "A security model that trusts no one and requires verification for all access attempts, promoting a higher level of security in network environments."
+    },
+    {
+        "name": "Zero-day Attack",
+        "description": "An attack that exploits a vulnerability before it is known to the software or hardware vendor, requiring immediate response to mitigate risks."
+    },
+    {
+        "name": "Zero-day Exploit",
+        "description": "This term is used to describe exploit code that has been written to take advantage of a vulnerability before the software vendor knows about it and can publish a patch for it. The result is that would-be attackers are free to exploit the vulnerability, unless proactive exploit prevention technologies have been implemented to defend the computer being targeted by the attacker."
+    },
+    {
+        "name": "Zero-touch Provisioning or Deployment",
+        "description": "Zero-Touch Provisioning (ZTP) is an automatic device configuration process that frees IT administrators for more important tasks. The automated process reduces the possibility of errors when manually configuring devices and slashes the time it takes to set up devices for employee use, often without requiring IT intervention. Users can set up their devices with a few clicks, eliminating the need for administrators to create and track system images or manage the infrastructure required to push those images to new or repurposed devices"
+    }
+]
